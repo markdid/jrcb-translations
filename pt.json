@@ -1,0 +1,73 @@
+{
+    "home": {
+        "title": "J. Reuben Clark Law Society",
+        "menu_middle": {
+            "events": "Eventos",
+            "chapters": "Capítulos",
+            "leaders": "Líderes ",
+            "leaders_menu": {
+                "committees": "Comités",
+                "awards": "Prêmios",
+                "tools_and_training": "Ferramentos e Treinamentos"
+            },
+            "resources": "Recursos",
+            "resources_menu": {
+                "firesides": "Serões",
+                "forms": "Formulários",
+                "clark_memorandum": "Clark Memorandum"
+            },
+            "about": "Sobre",
+            "about_menu": {
+                "letter": "",
+                "jrc": "J. Reuben Clark Jr.",
+                "faq": "Perguntas Frequentes",
+                "contact": "Contato"
+            }
+        },
+        "menu_right": {
+            "directory": "Diretório",
+            "login": "Entrar",
+            "login_menu": {
+                "login": "Entre em sua conta",
+                "email": "E-mail",
+                "password": "Senha",
+                "access": "Não consegue acessar sua conta?"
+            },
+            "join": "Cadastre-se"
+        },
+        "mission": {
+            "title": "Nossa missão",
+            "body": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundada no Estado de Direito.",
+            "join": "Junte-se agora!",
+            "learn": "Aprenda mais"
+        },
+        "find": {
+            "title": "Encontre um membro da sociedade",
+            "body": "Dentro de nossas fileiras, você encontrará milhares de advogados e outros graduados em direito de todo o mundo. Nossos membros incluem líderes e aspirantes a líderes de uma infinidade de profissões, da política à lei, à academia, à governança corporativa e além.",
+            "button": "Busque no diretório"
+        },
+        "articles": {
+            "title": "Artigos",
+            "link": "Ver todos os artigos"
+        },
+        "events": {
+            "title": "Eventos",
+            "link": "Veja todos os eventos da sociedade"
+        },
+        "footer": {
+            "about": "Sobre a JRCLS",
+            "letter": "",
+            "jrc": "J. Reuben Clark Jr.",
+            "faq": "Perguntas Frequentes",
+            "contact": "Contato",
+            "mission": {
+                "title": "Missão",
+                "body": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundada no Estado de Direito."
+            },
+            "language": {
+                "title": "Idioma do site",
+                "language": "Inglês"
+            }
+        }
+    }
+}

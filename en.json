@@ -1,0 +1,270 @@
+{
+    "home": {
+        "title": "J. Reuben Clark Law Society",
+        "menu_middle": {
+            "events": "Events",
+            "chapters": "Chapters",
+            "leaders": "Leaders",
+            "leaders_menu": {
+                "committees": "Committees",
+                "awards": "Awards",
+                "tools_and_training": "Tools & Training"
+            },
+            "resources": "Resources",
+            "resources_menu": {
+                "firesides": "Firesides",
+                "forms": "Forms",
+                "clark_memorandum": "Clark Memorandum"
+            },
+            "about": "About",
+            "about_menu": {
+                "letter": "Letter from the Chair",
+                "jrc": "J. Reuben Clark Jr.",
+                "faq": "FAQ",
+                "contact": "Contact Us"
+            }
+        },
+        "menu_right": {
+            "directory": "Directory",
+            "login": "Log In",
+            "login_menu": {
+                "login": "Log Into Your Account",
+                "email": "Email",
+                "password": "Password",
+                "access": "Can't access your account?"
+            },
+            "join": "Join Now"
+        },
+        "mission": {
+            "title": "Our Mission",
+            "body": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law.",
+            "join": "Join Now",
+            "learn": "Learn More"
+        },
+        "find": {
+            "title": "Find a Society Member",
+            "body": "Within our ranks you will find thousands of attorneys and other law school graduates from around the world. Our membership includes leaders and aspiring leaders pursuing a myriad of professions, from politics to law, to academia, to corporate governance and beyond.",
+            "button": "Search the Directory"
+        },
+        "articles": {
+            "title": "Articles",
+            "link": "View All Articles"
+        },
+        "events": {
+            "title": "Events",
+            "link": "View All Society Events"
+        },
+        "footer": {
+            "about": "About JRCLS",
+            "letter": "Letter from the Chair",
+            "jrc": "J. Reuben Clark Jr.",
+            "faq": "FAQ",
+            "contact": "Contact Us",
+            "mission": {
+                "title": "Mission Statement",
+                "body": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law."
+            },
+            "language": {
+                "title": "Site Language",
+                "language": "English"
+            }
+        }
+    },
+    "join_now": {
+        "page": "Join Now",
+        "title": "Join the J. Reuben Clark Law Society",
+        "body": "Propelled by personal religious convictions, forged by different faiths, we stand united in promoting freedom of conscience, human dignity, and the rule of law as we engage in public service and pursue professional excellence. Within our ranks you will find thousands of attorneys and other law school graduates from around the world. Our membership includes leaders and aspiring leaders pursuing a myriad of professions, from politics to law, to academia, to corporate governance and beyond.",
+        "mission": {
+            "title": "Our Mission Statement",
+            "body": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law.",
+            "button": "I Support the Mission Statement"
+        },
+        "form": {
+            "1of3": {
+                "title": "Your Information",
+                "f_name": "Given Name(s)",
+                "f_name_placeholder": "Your Given Name(s)",
+                "l_name": "Surname(s)",
+                "l_name_placeholder": "Your Surname(s)",
+                "status": "Current Law School Education Status",
+                "student": "Student",
+                "professional": "Professional",
+                "other": "Other",
+                "law": "Law School",
+                "law_placeholder": "Law School",
+                "law_year": "Year"
+            },
+            "2of3": {
+                "title": "Join a Chapter",
+                "chapter": "Chapter",
+                "chapter_placeholder": "Select..."
+            },
+            "3of3": {
+                "email": "Email",
+                "email_placeholder": "Your Email Address",
+                "password": "Password",
+                "password_placeholder": "Your Password",
+                "contact": "JRCLS can contact me with news and other information",
+                "terms": "I agree to the privacy policy and terms of use.",
+                "create_account": "Create Account"
+            }
+        },
+        "form_errors": {
+            "fill": "Please fill out this field",
+            "email_at": "Please include an '@' in the email address. _ is missing an '@.'",
+            "email_post": "Please enter a part following '@.' _ is incomplete.",
+            "terms": "Please accept the terms of use and privacy policy before joining"
+        }
+    },
+    "confirmation": {
+        "thanks": "Thank you for joining",
+        "email": "A confirmation link has been sent to your email."
+    },
+    "directory_filters": {
+        "filters": "Filters",
+        "clear": "Clear All",
+        "professional_focus": "Professional Focus",
+        "options_placeholder": "Select...",
+        "professional_options": [
+            "Academic Administration, Education, Research",
+            "Administrative & Regulatory Law",
+            "Admirality & Maritime Law",
+            "Agricultural Law",
+            "Alternative Dispute Resolution",
+            "Antitrust Law",
+            "Appellate Law",
+            "Aviation & Space Law",
+            "Banking, Finance, Investments",
+            "Bankruptcy Law",
+            "Business Law",
+            "Business Management",
+            "Civil Rights & Social Justice Law",
+            "Communications Law",
+            "Constitutional Law",
+            "Construction Law",
+            "Contract Law",
+            "Creditors, Collections, Liens",
+            "Criminal Defense",
+            "Criminal Prosecution",
+            "Cyber Law",
+            "Disability Law",
+            "Education Law",
+            "Elder Law",
+            "Energy, Natural Resources & Environmental Law",
+            "Entertainment & Sports Law",
+            "Entrepreneurship",
+            "Family Law",
+            "Franchising & Licensing",
+            "General Law Practice",
+            "Government Law",
+            "Health Law",
+            "Immigration Law",
+            "In-House Counsel",
+            "Indian Law",
+            "Insurance Law",
+            "Intellectual Property Law",
+            "International Law",
+            "Judicial Clerk, Staff Attorney",
+            "Judicial Officer",
+            "Juvenile Law",
+            "Labor & Employment Law",
+            "Land Use, Planning, Developing & Zoning",
+            "Legislative Law",
+            "Litigation",
+            "Malpractice & Professional Liability",
+            "Mergers & Acquisitions",
+            "Military Law",
+            "Peace Building",
+            "Personal Injury",
+            "Politics",
+            "Real Estate, Property, Landlord & Tenant Law",
+            "Religious Freedom",
+            "Restorative Justice",
+            "Retired",
+            "Science & Technology Law",
+            "Solo & Small Firm",
+            "Student",
+            "Tax Law",
+            "Transactional Law",
+            "Water Law",
+            "Wills, Trusts & Estates Law"
+        ],
+        "licensed_jurisdiction": "Licenced Jurisdiction",
+        "city_state": "City/State",
+        "chapter": "Chapter",
+        "view_leaders": "View Only Leaders",
+        "employer": "Employer",
+        "graduating_university": "Graduating University",
+        "language": "Language",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+    },
+    "user_profile": {
+        "invalid_login": {
+            "title": "Invalid Login",
+            "access": "Can't access your account?"
+        },
+        "user_hover": {
+            "greeting": "Hello,",
+            "view": "View Your Profile",
+            "dues": "Pay Dues",
+            "settings": "Account Settings",
+            "logout": "Log Out"
+        },
+        "profile": {
+            "edit": "Edit",
+            "email": "@Email",
+            "download": "Download as CSV",
+            "share_contact": "Share as Contact",
+            "share_link": "Share Link",
+            "about": "About Me",
+            "missing_bio": "This profile doesn't have any contact information",
+            "contact": "Contact Info",
+            "missing_contact": "This profile doesn't have any contact information",
+            "chapters": "Affiliated Chapters",
+            "missing_chapters": "This profile doesn't have any affiliated chapters",
+            "focuses": "Professional Focuses",
+            "missing_focuses": "This profile doesn't have any professional focuses",
+            "education": "Education",
+            "missing_education": "This profile doesn't have an education status",
+            "jurisdictions": "Licensed Jurisdictions",
+            "missing_jurisdictions": "This profile doesn't have any licensed jurisdictions",
+            "social": "Social Profiles",
+            "missing_social": "This profile doesn't have any social links",
+            "languages": "Languages",
+            "missing_languages": "This profile doesn't have any languages",
+            "employer": "Employer",
+            "missing_employer": "This profile doesn't have an employer"
+        }
+    },
+    "events": {
+        "title": "Events",
+        "filter": "Filter",
+        "clear": "Clear All",
+        "search_placeholder": "Search by Chapter Location, Event Name, etc...",
+        "load": "Load More"
+    },
+    "chapters": {
+        "title": "Find a Chapter",
+        "search_placeholder": "Search by Chapter Location, Event Name, etc...",
+        "filter": "Filter",
+        "events": "Events",
+        "directory": "Directory",
+        "leadership": "Leadership",
+        "members": "Members"
+    },
+    "resources": {
+        "title": "Resources",
+        "body": "The following resources may be helpful or of interest to you.",
+        "forms": "Forms",
+        "firesides": "Firesides",
+        "clark_memorandum": "Clark Memorandum"
+    },
+    "about": {
+        "title": "About",
+        "body": "The J. Reuben Clark Law Society consists of thousands of attorneys and other law school graduates from around the world. Our membership includes leaders and aspiring leaders pursuing a myriad of professions, from politics to law, to academia, to corporate governance and beyond.",
+        "established": "The Law Society was established in 1988. In celebration of its 30th anniversary, the following highlight video was shared at the 2018 Leadership Conference."
+    }
+}

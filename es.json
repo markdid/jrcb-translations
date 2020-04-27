@@ -1,0 +1,73 @@
+{
+    "home": {
+        "title": "Sociedad Legal J. Reuben Clark",
+        "menu_middle": {
+            "events": "Eventos",
+            "chapters": "Capítulos",
+            "leaders": "Líderes ",
+            "leaders_menu": {
+                "committees": "Comités",
+                "awards": "Reconocimientos",
+                "tools_and_training": "Herramientas y Entrenamiento"
+            },
+            "resources": "Recursos",
+            "resources_menu": {
+                "firesides": "Charlas Fogoneras",
+                "forms": "Formas",
+                "clark_memorandum": "Clark Memorándum"
+            },
+            "about": "Acerca de",
+            "about_menu": {
+                "letter": "Carta del Presidente",
+                "jrc": "J. Reuben Clark Jr.",
+                "faq": "Preguntas Frecuentes",
+                "contact": "Contacto"
+            }
+        },
+        "menu_right": {
+            "directory": "Directorio",
+            "login": "Iniciar sesión",
+            "login_menu": {
+                "login": "Ingrese a su cuenta",
+                "email": "correo electrónico",
+                "password": "contraseña",
+                "access": "¿No puede acceder a su cuenta?"
+            },
+            "join": "Únete ahora"
+        },
+        "mission": {
+            "title": "Nuestra misión",
+            "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
+            "join": "Únete ahora",
+            "learn": "Aprende más"
+        },
+        "find": {
+            "title": "Encontrar a un miembro de la sociedad",
+            "body": "Dentro de nuestra comunidad encontrarás miles the abogados y otros graduados de las facultad de derecho de todo el mundo. Nuestra membresía incluye líderes y aspirantes a líderes que persiguen una miríada de profesiones, desde política hasta derecho, academia, gobierno corporativo y más.",
+            "button": "Buscar en el Directorio"
+        },
+        "articles": {
+            "title": "Artículos",
+            "link": "Ver todos los artículos"
+        },
+        "events": {
+            "title": "Eventos",
+            "link": "Ver todos los eventos de la sociedad"
+        },
+        "footer": {
+            "about": "Acerca de JRCLS",
+            "letter": "Carta del Presidente",
+            "jrc": "J. Reuben Clark Jr.",
+            "faq": "Preguntas Frecuentes",
+            "contact": "Contacto",
+            "mission": {
+                "title": "Declaración de la Misión",
+                "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley."
+            },
+            "language": {
+                "title": "Lenguaje del sitio",
+                "language": "Inglés"
+            }
+        }
+    }
+}
