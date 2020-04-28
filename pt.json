@@ -255,54 +255,56 @@
         "members": "Membros"
     },
     "resources": {
-        "title": "",
-        "body": "",
-        "forms": "",
-        "firesides": "",
-        "clark_memorandum": ""
+        "title": "Recursos",
+        "body": "Os seguintes recursos podem ser úteis ou interessantes para você.",
+        "forms": "Formulários",
+        "firesides": "Devocionais",
+        "clark_memorandum": "Clark Memorando"
     },
     "about": {
-        "title": "",
-        "body": "",
-        "established": ""
+        "title": "Sobre",
+        "body": "Dentro de nossas fileiras se encontrará milhares de advogados e outros graduados em direito de todo o mundo. Nossos membros incluem líderes e futuros líderes advindos de um infinidade de profissões:da política ao direito, da academia, das corporações de governança e muito mais.",
+        "established": "A Sociedade de Direito foi estabelecida em 1988. Durante a celebração dos seus 30 anos, compartilhou-se o seguinte vídeo na Conferência de Liderança de 2018. "
     },
     "directory": {
-        "title": "",
-        "search_placeholder": "",
-        "filter": "",
-        "download": "",
-        "share": "",
-        "share_contact": "",
-        "share_link": "",
-        "load": "",
-        "results": ""
+        "title": "Diretório",
+        "search_placeholder": "Procurar por Àrea de Foco, Jurisdição da Ordem dos Advogados, Nome do Membro, etc.",
+        "filter": "Filtro",
+        "download": "Baixar como CSV",
+        "share": "Compartilhar",
+        "share_contact": "Compartilhar como contato",
+        "share_link": "Compartilhar link",
+        "load": "Carregue mais",
+        "results": "Resultados Filtrados"
     },
     "directory_disclaimer": {
-        "close": "",
-        "title": "",
-        "body": ""
+        "close": "Fechar",
+        "title": "Diretório de Isenção de Responsabilidade",
+        "body": "Este diretório é para facilitar as ligações entre os membros da Sociedade de Direito J. Reuben Clark, usando informações que são basicamente autodeclaradas. Esta sociedade não fornece referências e não tem nenhuma obrigação de verificar ou confirmar a exatidão das informações neste diretório. A inclusão de um advogado não constitui nenhum endosso geral no que concerne à sua habilidade ou competência na condução de qualquer assunto jurídico."
     },
     "chapter": {
-        "articles_events": "",
-        "members": "",
-        "leadership": "",
-        "event": "",
-        "see_events": "",
-        "missing_recent_events": "",
-        "recent_articles": "",
-        "calendar": "",
-        "missing_events": "",
-        "chapter_groups": "",
-        "missing_groups": "",
-        "chapter_members": "",
-        "missing_members": "",
+        "articles_events": "Artigos e Eventos",
+        "members": "Membros",
+        "leadership": "Liderança",
+        "event": "Próximos evento",
+        "see_events": "Ver todos os eventos",
+        "missing_recent_events": "Não há eventos recentes",
+        "recent_articles": "Artigo Mais Recente",
+        "all_articles": "Veja todos os artigos",
+        "missing_recent_articles": "Não existem artigos recentes",
+        "calendar": "Calendário",
+        "missing_events": "Não há eventos",
+        "chapter_groups": "Capítulo Grupos Sociais",
+        "missing_groups": "Não existem grupos sociais",
+        "chapter_members": "Conheça os membros do capítulo",
+        "missing_members": "Não existem membros",
         "members_tab": {
-            "title": "",
-            "missing_members": ""
+            "title": "Membros",
+            "missing_members": "Este capítulo não tem membros"
         },
         "leadership_tab": {
-            "title": "",
-            "missing_leadership": ""
+            "title": "Liderança",
+            "missing_leadership": "Este caste capítulo não tem liderança"
         }
     }
 }
