@@ -91,7 +91,6 @@
                 "professional": "Professional",
                 "other": "Other",
                 "law": "Law School",
-                "law_placeholder": "Law School",
                 "law_year": "Year"
             },
             "2of3": {
@@ -291,6 +290,8 @@
         "see_events": "See All Events",
         "missing_recent_events": "There aren't any recent events",
         "recent_articles": "Most Recent Article",
+        "all_articles": "See All Articles",
+        "missing_recent_articles": "There aren't any recent articles",
         "calendar": "Calendar",
         "missing_events": "There aren't any events",
         "chapter_groups": "Chapter Social Groups",

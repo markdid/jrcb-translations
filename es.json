@@ -91,7 +91,6 @@
                 "professional": "Profesional",
                 "other": "Otro",
                 "law": "Escuela de Leyes",
-                "law_placeholder": "",
                 "law_year": "Año"
             },
             "2of3": {
@@ -240,70 +239,72 @@
         }
     },
     "events": {
-        "title": "",
-        "filter": "",
-        "clear": "",
-        "search_placeholder": "",
-        "load": ""
+        "title": "Eventos",
+        "filter": "Filtro",
+        "clear": "Limpiar todo",
+        "search_placeholder": "Buscar por ubicación del capítulo, nombre de evento, etc...",
+        "load": "Cargar más"
     },
     "chapters": {
-        "title": "",
-        "search_placeholder": "",
-        "filter": "",
-        "events": "",
-        "directory": "",
-        "leadership": "",
-        "members": ""
+        "title": "Encontrar un Capítulo",
+        "search_placeholder": "Buscar por ubicación del capítulo, nombre, etc...",
+        "filter": "Filtro",
+        "events": "Eventos",
+        "directory": "Directorio",
+        "leadership": "Liderazgo",
+        "members": "Miembros"
     },
     "resources": {
-        "title": "",
-        "body": "",
-        "forms": "",
-        "firesides": "",
-        "clark_memorandum": ""
+        "title": "Recursos",
+        "body": "Los siguientes recursos pueden ser útiles o de interés para usted.",
+        "forms": "Formas",
+        "firesides": "Charlas Fogoneras",
+        "clark_memorandum": "Clark Memorándum "
     },
     "about": {
-        "title": "",
-        "body": "",
-        "established": ""
+        "title": "Acerca",
+        "body": "La Sociedad Legal J. Reuben Clark consiste de miles the abogados y otros graduados de las facultad de derecho de todo el mundo. Nuestra membresía incluye líderes y aspirantes a líderes que persiguen una miríada de profesiones, desde política hasta derecho, academia, gobierno corporativo y más.",
+        "established": "La Sociedad Legal se estableció en 1988. En celebración de su aniversarion numbero 30, el siguiente video destacado fue compartido en la Conferencia de Liderazgo 2018."
     },
     "directory": {
-        "title": "",
-        "search_placeholder": "",
-        "filter": "",
-        "download": "",
-        "share": "",
-        "share_contact": "",
-        "share_link": "",
-        "load": "",
-        "results": ""
+        "title": "Directorio",
+        "search_placeholder": "Buscar por Area de Enfoque, jurisdicción de la barra, nombre del miembro, etc.",
+        "filter": "Filtro",
+        "download": "Descargar como CSV",
+        "share": "Compartir",
+        "share_contact": "Compartir como contacto",
+        "share_link": "Compartir enlace",
+        "load": "Cargar más",
+        "results": "Resultados Filtrados"
     },
     "directory_disclaimer": {
-        "close": "",
-        "title": "",
-        "body": ""
+        "close": "Cerrar",
+        "title": "Descargo de Responsabilidad del Directorio",
+        "body": "Este directorio es para facilitar las conecciones entre los miembros de JRCLS, utilizando información que es en gran parte autoinformada. JRCLS no hace referencias de abogados, y no asume ningún deber de verificar o confirmar la exactitud de la información que figura en este directorio. La inclusión de un abogado en este directorio no constituye un respaldo de ese abogado en general o con respecto a la capacidad o competencia para manejar cualquier asunto legal específico."
     },
     "chapter": {
-        "articles_events": "",
-        "members": "",
-        "leadership": "",
-        "event": "",
-        "see_events": "",
-        "missing_recent_events": "",
-        "recent_articles": "",
-        "calendar": "",
-        "missing_events": "",
-        "chapter_groups": "",
-        "missing_groups": "",
-        "chapter_members": "",
-        "missing_members": "",
+        "articles_events": "Artículos & Eventos",
+        "members": "Miembros",
+        "leadership": "Liderazgo",
+        "event": "Próximo evento",
+        "see_events": "Ver todos los eventos",
+        "missing_recent_events": "No hay eventos recientes",
+        "recent_articles": "Artículo más reciente",
+        "all_articles": "Ver todos los artículos",
+        "missing_recent_articles": "No hay artículos recientes",
+        "calendar": "Calendario",
+        "missing_events": "No hay eventos",
+        "chapter_groups": "Grupos Sociales del Capítulo",
+        "missing_groups": "No hay grupos sociales",
+        "chapter_members": "Conocer Miembros del Capítulo",
+        "missing_members": "No hay miembros",
         "members_tab": {
-            "title": "",
-            "missing_members": ""
+            "title": "Miembros",
+            "missing_members": "Este capítulo no tiene miembros"
         },
         "leadership_tab": {
-            "title": "",
-            "missing_leadership": ""
+            "title": "Liderazgo",
+            "missing_leadership": "Este capítulo no tiene liderazgo"
         }
     }
 }
