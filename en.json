@@ -266,5 +266,44 @@
         "title": "About",
         "body": "The J. Reuben Clark Law Society consists of thousands of attorneys and other law school graduates from around the world. Our membership includes leaders and aspiring leaders pursuing a myriad of professions, from politics to law, to academia, to corporate governance and beyond.",
         "established": "The Law Society was established in 1988. In celebration of its 30th anniversary, the following highlight video was shared at the 2018 Leadership Conference."
+    },
+    "directory": {
+        "title": "Directory",
+        "search_placeholder": "Search by Focus Area, Bar Jurisdiction, Member Name, etc...",
+        "filter": "Filter",
+        "download": "Download as CSV",
+        "share": "Share",
+        "share_contact": "Share as Contact",
+        "share_link": "Share Link",
+        "load": "Load More",
+        "results": "Filtered Results"
+    },
+    "directory_disclaimer": {
+        "close": "Close",
+        "title": "Directory Disclaimer",
+        "body": "This directory is to facilitate connections between JRCLS members, using information that is largely self-reported. JRCLS does not make lawyer referrals, and undertakes no duty to verify or confirm the accuracy of information listed in this directory. Inclusion of a lawyer in this directory does not constitute an endorsement of that lawyer in general or with respect to ability or competency for handling any specific legal matter. "
+    },
+    "chapter": {
+        "articles_events": "Articles & Events",
+        "members": "Members",
+        "leadership": "Leadership",
+        "event": "Upcoming Event",
+        "see_events": "See All Events",
+        "missing_recent_events": "There aren't any recent events",
+        "recent_articles": "Most Recent Article",
+        "calendar": "Calendar",
+        "missing_events": "There aren't any events",
+        "chapter_groups": "Chapter Social Groups",
+        "missing_groups": "There aren't any social groups",
+        "chapter_members": "Get to Know Chapter Members",
+        "missing_members": "There aren't any members",
+        "members_tab": {
+            "title": "Members",
+            "missing_members": "This chapter doesn't have any members"
+        },
+        "leadership_tab": {
+            "title": "Leadership",
+            "missing_leadership": "This chapter doesn't have any leadership"
+        }
     }
 }

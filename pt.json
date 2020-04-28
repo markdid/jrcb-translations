@@ -69,5 +69,241 @@
                 "language": "Inglês"
             }
         }
+    },
+    "join_now": {
+        "page": "Únete ahora",
+        "title": "Únete a la Sociedad Legal J. Reuben Clark",
+        "body": "Impulsados ​​por convicciones religiosas personales, forjadas por diferentes religiones, nos mantenemos unidos en la promoción de la libertad de conciencia, la dignidad humana y el estado de derecho a medida que participamos en el servicio público y buscamos la excelencia profesional. Dentro de nuestra comunidad encontrarás miles the abogados y otros graduados de las facultad de derecho de todo el mundo. Nuestra membresía incluye líderes y aspirantes a líderes que persiguen una miríada de profesiones, desde política hasta derecho, academia, gobierno corporativo y más.",
+        "mission": {
+            "title": "La Declaración de Nuestra Mission",
+            "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
+            "button": "I Support the Mission Statement"
+        },
+        "form": {
+            "1of3": {
+                "title": "Tu información",
+                "f_name": "",
+                "f_name_placeholder": "",
+                "l_name": "",
+                "l_name_placeholder": "",
+                "status": "",
+                "student": "",
+                "professional": "",
+                "other": "",
+                "law": "",
+                "law_placeholder": "",
+                "law_year": ""
+            },
+            "2of3": {
+                "title": "",
+                "chapter": "",
+                "chapter_placeholder": ""
+            },
+            "3of3": {
+                "email": "",
+                "email_placeholder": "",
+                "password": "",
+                "password_placeholder": "",
+                "contact": "",
+                "terms": "",
+                "create_account": ""
+            }
+        },
+        "form_errors": {
+            "fill": "",
+            "email_at": "",
+            "email_post": "",
+            "terms": ""
+        }
+    },
+    "confirmation": {
+        "thanks": "",
+        "email": ""
+    },
+    "directory_filters": {
+        "filters": "",
+        "clear": "",
+        "professional_focus": "",
+        "options_placeholder": "",
+        "professional_options": [
+            "Academic Administration, Education, Research",
+            "Administrative & Regulatory Law",
+            "Admirality & Maritime Law",
+            "Agricultural Law",
+            "Alternative Dispute Resolution",
+            "Antitrust Law",
+            "Appellate Law",
+            "Aviation & Space Law",
+            "Banking, Finance, Investments",
+            "Bankruptcy Law",
+            "Business Law",
+            "Business Management",
+            "Civil Rights & Social Justice Law",
+            "Communications Law",
+            "Constitutional Law",
+            "Construction Law",
+            "Contract Law",
+            "Creditors, Collections, Liens",
+            "Criminal Defense",
+            "Criminal Prosecution",
+            "Cyber Law",
+            "Disability Law",
+            "Education Law",
+            "Elder Law",
+            "Energy, Natural Resources & Environmental Law",
+            "Entertainment & Sports Law",
+            "Entrepreneurship",
+            "Family Law",
+            "Franchising & Licensing",
+            "General Law Practice",
+            "Government Law",
+            "Health Law",
+            "Immigration Law",
+            "In-House Counsel",
+            "Indian Law",
+            "Insurance Law",
+            "Intellectual Property Law",
+            "International Law",
+            "Judicial Clerk, Staff Attorney",
+            "Judicial Officer",
+            "Juvenile Law",
+            "Labor & Employment Law",
+            "Land Use, Planning, Developing & Zoning",
+            "Legislative Law",
+            "Litigation",
+            "Malpractice & Professional Liability",
+            "Mergers & Acquisitions",
+            "Military Law",
+            "Peace Building",
+            "Personal Injury",
+            "Politics",
+            "Real Estate, Property, Landlord & Tenant Law",
+            "Religious Freedom",
+            "Restorative Justice",
+            "Retired",
+            "Science & Technology Law",
+            "Solo & Small Firm",
+            "Student",
+            "Tax Law",
+            "Transactional Law",
+            "Water Law",
+            "Wills, Trusts & Estates Law"
+        ],
+        "licensed_jurisdiction": "",
+        "city_state": "",
+        "chapter": "",
+        "view_leaders": "",
+        "employer": "",
+        "graduating_university": "",
+        "language": "",
+        "gender": "",
+        "male": "",
+        "female": "",
+        "other": ""
+    },
+    "user_profile": {
+        "invalid_login": {
+            "title": "",
+            "access": ""
+        },
+        "user_hover": {
+            "greeting": "",
+            "view": "",
+            "dues": "",
+            "settings": "",
+            "logout": ""
+        },
+        "profile": {
+            "edit": "",
+            "email": "",
+            "download": "",
+            "share_contact": "",
+            "share_link": "",
+            "about": "",
+            "missing_bio": "",
+            "contact": "",
+            "missing_contact": "",
+            "chapters": "",
+            "missing_chapters": "",
+            "focuses": "",
+            "missing_focuses": "",
+            "education": "",
+            "missing_education": "",
+            "jurisdictions": "",
+            "missing_jurisdictions": "",
+            "social": "",
+            "missing_social": "",
+            "languages": "",
+            "missing_languages": "",
+            "employer": "",
+            "missing_employer": ""
+        }
+    },
+    "events": {
+        "title": "",
+        "filter": "",
+        "clear": "",
+        "search_placeholder": "",
+        "load": ""
+    },
+    "chapters": {
+        "title": "",
+        "search_placeholder": "",
+        "filter": "",
+        "events": "",
+        "directory": "",
+        "leadership": "",
+        "members": ""
+    },
+    "resources": {
+        "title": "",
+        "body": "",
+        "forms": "",
+        "firesides": "",
+        "clark_memorandum": ""
+    },
+    "about": {
+        "title": "",
+        "body": "",
+        "established": ""
+    },
+    "directory": {
+        "title": "",
+        "search_placeholder": "",
+        "filter": "",
+        "download": "",
+        "share": "",
+        "share_contact": "",
+        "share_link": "",
+        "load": "",
+        "results": ""
+    },
+    "directory_disclaimer": {
+        "close": "",
+        "title": "",
+        "body": ""
+    },
+    "chapter": {
+        "articles_events": "",
+        "members": "",
+        "leadership": "",
+        "event": "",
+        "see_events": "",
+        "missing_recent_events": "",
+        "recent_articles": "",
+        "calendar": "",
+        "missing_events": "",
+        "chapter_groups": "",
+        "missing_groups": "",
+        "chapter_members": "",
+        "missing_members": "",
+        "members_tab": {
+            "title": "",
+            "missing_members": ""
+        },
+        "leadership_tab": {
+            "title": "",
+            "missing_leadership": ""
+        }
     }
 }

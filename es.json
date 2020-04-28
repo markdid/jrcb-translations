@@ -69,5 +69,241 @@
                 "language": "Inglés"
             }
         }
+    },
+    "join_now": {
+        "page": "Únete ahora",
+        "title": "Únete a la Sociedad Legal J. Reuben Clark",
+        "body": "Impulsados ​​por convicciones religiosas personales, forjadas por diferentes religiones, nos mantenemos unidos en la promoción de la libertad de conciencia, la dignidad humana y el estado de derecho a medida que participamos en el servicio público y buscamos la excelencia profesional. Dentro de nuestra comunidad encontrarás miles the abogados y otros graduados de las facultad de derecho de todo el mundo. Nuestra membresía incluye líderes y aspirantes a líderes que persiguen una miríada de profesiones, desde política hasta derecho, academia, gobierno corporativo y más.",
+        "mission": {
+            "title": "La Declaración de Nuestra Mission",
+            "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
+            "button": "I Support the Mission Statement"
+        },
+        "form": {
+            "1of3": {
+                "title": "Tu información",
+                "f_name": "Nombre",
+                "f_name_placeholder": "Su Nombre",
+                "l_name": "Apellido",
+                "l_name_placeholder": "Su Apellido",
+                "status": "Estado Actual de Educación en la Escuela de Leyes",
+                "student": "Estudiante",
+                "professional": "Profesional",
+                "other": "Otro",
+                "law": "Escuela de Leyes",
+                "law_placeholder": "",
+                "law_year": "Año"
+            },
+            "2of3": {
+                "title": "Únete a un capítulo",
+                "chapter": "Capítulo",
+                "chapter_placeholder": "Seleccionar"
+            },
+            "3of3": {
+                "email": "Correo electrónico",
+                "email_placeholder": "Su Correo Electrónico",
+                "password": "Contraseña",
+                "password_placeholder": "Su Contraseña",
+                "contact": "JRCLS puede contactarme con noticias y otra información",
+                "terms": "Acepto la política de privacidad y los términos de uso.",
+                "create_account": "Crear Cuenta"
+            }
+        },
+        "form_errors": {
+            "fill": "Favor de completar la informacion de este campo",
+            "email_at": "Favor de incluir un '@' en el correo electrónico. _ esta faltando un '@.'",
+            "email_post": "Favor de incluir la parte siguiendo el '@.' _ esta incompleto.",
+            "terms": "Favor de acceptar la política de privacidad y los términos de uso antes de unirse."
+        }
+    },
+    "confirmation": {
+        "thanks": "Gracias por unirse",
+        "email": "Se ha enviado un enlace de confirmación a su correo electrónico."
+    },
+    "directory_filters": {
+        "filters": "Filtros",
+        "clear": "Limpiar todo",
+        "professional_focus": "Enfoque Profesional",
+        "options_placeholder": "Seleccione",
+        "professional_options": [
+            "Administración Académica, Educación, Investigación",
+            "Derecho Administrativo y Regulatorio",
+            "Almirantazgo y Derecho Marítimo",
+            "Derecho Agricultural",
+            "Resolución de conflicto alternativa",
+            "Ley Antimonopolio",
+            "Apelaciones",
+            "Derecho de Aviación y Espacio",
+            "Banca, Finanzas, Inversiones",
+            "Derecho de Bancarrota",
+            "Derecho de Negocio",
+            "Administración de Empresas",
+            "Ley de Derechos Civiles y Justicia Social ",
+            "Derecho de la Comunicaciones",
+            "Derecho Constitucional",
+            "Derecho de la Construcción",
+            "Derecho Contractual",
+            "Derecho Crediticio y de Instituciones Financieras",
+            "Derecho Penal",
+            "Procuración de Justicia ",
+            "Derecho Cibernetico",
+            "Derecho de las Personas con Discapacidad",
+            "Derecho de la Educación",
+            "Derecho de las Personas Adultas Mayores",
+            "Derecho Energético, Ambiental y de Recursos Naturales",
+            "Derecho del Deporte y Entretenimiento",
+            "Emprendimiento",
+            "Derecho Familiar",
+            "Franquicias y Licencias",
+            "Practica General del Derecho",
+            "Derecho Gubernamental",
+            "Derecho de la Salud",
+            "Derecho Migratorio",
+            "Asesor Legal Interno",
+            "Derecho de las Comunidades Indígenas",
+            "Seguros y Finanzas",
+            "Propiedad Intelectual",
+            "Derecho Internacional",
+            "Secretario Judicial / Empleado Judicial",
+            "Oficial Judicial",
+            "Derecho Juvenil",
+            "Derecho Laboral",
+            "Usos de Suelo, Zonificación y Planeación",
+            "Derecho Legislativo",
+            "Litigio",
+            "Responsabilidad Profesional / Negligencia profesional",
+            "Fusiones y Adquisiciones",
+            "Derecho Militar",
+            "Construcción de la Paz",
+            "Daños y perjuicios",
+            "Política",
+            "Bienes Raíces - Propiedades",
+            "Libertad Religiosa",
+            "Restauración de Justicia",
+            "Retirado(a)",
+            "Derecho de La Ciencia y Tecnología",
+            "Abogado Postulante Particular",
+            "Estudiante",
+            "Derecho Fiscal",
+            "Derecho Transaccional",
+            "Derecho del Agua",
+            "Testamentos y Planeación Patrimonial"
+        ],
+        "licensed_jurisdiction": "Jurisdicción para ejercer",
+        "city_state": "Ciudad / Estado",
+        "chapter": "Capítulo",
+        "view_leaders": "Ver solo líderes",
+        "employer": "Empleador(a)",
+        "graduating_university": "Universidad de donde se graduó",
+        "language": "Lenguaje",
+        "gender": "Sexo",
+        "male": "Macho",
+        "female": "Hembra",
+        "other": "Otro"
+    },
+    "user_profile": {
+        "invalid_login": {
+            "title": "Ingreso invalido",
+            "access": "¿No puede acceder a su cuenta?"
+        },
+        "user_hover": {
+            "greeting": "Hola,",
+            "view": "Ver Tu Perfil",
+            "dues": "Pagar Cuotas",
+            "settings": "Configuracion de cuenta",
+            "logout": "Cerrar sesión"
+        },
+        "profile": {
+            "edit": "Editar",
+            "email": "@Email",
+            "download": "Descargar como CSV",
+            "share_contact": "Compartir como contacto",
+            "share_link": "Compartir enlace",
+            "about": "Sobre mí",
+            "missing_bio": "Este perfil no tiene una biografía",
+            "contact": "Información de Contacto",
+            "missing_contact": "Este perfil no tiene información de contacto",
+            "chapters": "Capítulos Afiliados",
+            "missing_chapters": "Este perfil no tiene capítulos afiliados",
+            "focuses": "Enfoques Professionales",
+            "missing_focuses": "Este perfil no tiene enfoques professionales",
+            "education": "Educación",
+            "missing_education": "Este perfil no tiene un estado de educación",
+            "jurisdictions": "Jurisdicciones con licencia",
+            "missing_jurisdictions": "Este perfil no tiene jurisdicciones con licencia",
+            "social": "Perfiles Sociales",
+            "missing_social": "Este perfil no tiene enlaces sociales",
+            "languages": "Lenguajes",
+            "missing_languages": "Este perfil no tiene lenguajes",
+            "employer": "Empleador(a)",
+            "missing_employer": "Este perfil no tiene empleador(a)"
+        }
+    },
+    "events": {
+        "title": "",
+        "filter": "",
+        "clear": "",
+        "search_placeholder": "",
+        "load": ""
+    },
+    "chapters": {
+        "title": "",
+        "search_placeholder": "",
+        "filter": "",
+        "events": "",
+        "directory": "",
+        "leadership": "",
+        "members": ""
+    },
+    "resources": {
+        "title": "",
+        "body": "",
+        "forms": "",
+        "firesides": "",
+        "clark_memorandum": ""
+    },
+    "about": {
+        "title": "",
+        "body": "",
+        "established": ""
+    },
+    "directory": {
+        "title": "",
+        "search_placeholder": "",
+        "filter": "",
+        "download": "",
+        "share": "",
+        "share_contact": "",
+        "share_link": "",
+        "load": "",
+        "results": ""
+    },
+    "directory_disclaimer": {
+        "close": "",
+        "title": "",
+        "body": ""
+    },
+    "chapter": {
+        "articles_events": "",
+        "members": "",
+        "leadership": "",
+        "event": "",
+        "see_events": "",
+        "missing_recent_events": "",
+        "recent_articles": "",
+        "calendar": "",
+        "missing_events": "",
+        "chapter_groups": "",
+        "missing_groups": "",
+        "chapter_members": "",
+        "missing_members": "",
+        "members_tab": {
+            "title": "",
+            "missing_members": ""
+        },
+        "leadership_tab": {
+            "title": "",
+            "missing_leadership": ""
+        }
     }
 }
