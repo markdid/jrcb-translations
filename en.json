@@ -597,6 +597,116 @@
         }
     },
     "terms_of_use": {
-        "last_updated": "",
+        "last_updated": "Last Updated: February 20, 2019",
+        "who_we_are": {
+            "title": "",
+            "body": ""
+        },
+        "our_mission": {
+            "title": "",
+            "body": ""
+        },
+        "binding_agreement": {
+            "title": "",
+            "body": ""
+        },
+        "accounts": {
+            "title": "",
+            "registration": "",
+            "security": "",
+            "investigation": "",
+            "suspension": ""
+        },
+        "directory_use": {
+            "title": "",
+            "body": ""
+        },
+        "licenses": {
+            "title": "",
+            "website": "",
+            "content": "",
+            "ideas": ""
+        },
+        "prohibited_uses": {
+            "title": "",
+            "spamming": "",
+            "harassing": "",
+            "hacking": "",
+            "altering": "",
+            "interfering": "",
+            "our_rights": "",
+            "others_rights": ""
+        },
+        "rights_infringed": {
+            "title": "",
+            "responsibility": "",
+            "claims": "",
+            "signature": "",
+            "identification_copyright": "",
+            "identification_content": "",
+            "adequate_information": "",
+            "faith_statement": "",
+            "accurate_statement": "",
+            "authorized_statement": "",
+            "designated_agent": "",
+            "law_society": "",
+            "address": "",
+            "note": "",
+            "fail": ""
+        },
+        "privacy_policy_inc": {
+            "title": "Privacy Policy Incorporated",
+            "body": ""
+        },
+        "indemnity": {
+            "title": "",
+            "body": ""
+        },
+        "external_links": {
+            "title": "",
+            "body": ""
+        },
+        "third_party": {
+            "title": "",
+            "body": ""
+        },
+        "assignments": {
+            "title": "",
+            "body": ""
+        },
+        "website_changes": {
+            "title": "",
+            "body": ""
+        },
+        "disclaimers": {
+            "title": "",
+            "body": "",
+            "disclaimer": ""
+        },
+        "limited_liability": {
+            "title": "",
+            "body": "",
+            "exclusions": ""
+        },
+        "governing_law": {
+            "title": "",
+            "body": ""
+        },
+        "updates": {
+            "title": "",
+            "body": ""
+        },
+        "california": {
+            "title": "",
+            "body": ""
+        },
+        "miscellaneous": {
+            "title": "",
+            "waiver": "",
+            "severability": "",
+            "agreement": "",
+            "communications": "",
+            "effective_date": ""
+        }
     }
 }
