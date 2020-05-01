@@ -306,5 +306,416 @@
             "title": "Liderazgo",
             "missing_leadership": "Este capítulo no tiene liderazgo"
         }
+    },
+    "404_page": {
+        "body": ""
+    },
+    "awards": {
+        "title": "",
+        "individual_awards": "",
+        "clifford_award": "",
+        "exemplary_leadership": "",
+        "franklin_award": "",
+        "thomas_award": "",
+        "women_award": "",
+        "chapter_awards": "",
+        "developing_award": "",
+        "outstanding_award": "",
+        "quality_award": ""
+    },
+    "franklin_award_page": {
+        "p1": "Franklin Snyder Richards, the award’s namesake, was the very first general counsel for the Church of Jesus Christ of Latter-Day Saints. Appointed in January 1890, he continued in that assignment until his death on September 4, 1934. A key defender of the Church and its leaders during the tumultuous period of the late 19th century, Franklin Richards was also a legislator, one of the main advocates for women’s suffrage and a member of the 1895 Utah State Constitutional Convention. His courageous efforts to defend and promote the rights of unpopular, disenfranchised and persecuted minorities opened the door to growth and opportunity for countless numbers of men and women.",
+        "p2": "Chapter leaders and Law Society members are invited to nominate potential award recipients. A nomination form may be downloaded for mailing here.",
+        "p3": "Information about past recipients of the Franklin S. Richards Public Service Award can be accessed here."
+    },
+    "tools_training": {
+        "governance": {
+            "title": "",
+            "bylaws": "",
+            "last_amended": "",
+            "handbook": "",
+            "chapter_leadership_manual": "",
+            "body": "Prepared by the Leadership Development Team to help new leaders navigate the ins and outs of establishing and operating a successful chapter. The manual provides guidelines on many facets of Law Society leadership, including (but not limited to) building a membership base, organizing a Board of Directors, planning activities that serve others and promote religious liberty, and setting goals to achieve Quality, Outstanding, or Developing Chapter Awards.",
+            "spanish": "Español",
+            "french": "Français",
+            "portugues": "Português",
+            "russian": "Pусский"
+        },
+        "forms": {
+            "title": "",
+            "chapter_relations": "",
+            "quality_award": "",
+            "outstanding_award": "",
+            "developing_award": "",
+            "chapter_nomination": "",
+            "banking_info": "",
+            "chapter_report": "",
+            "finance": "",
+            "annual_disbursements": "",
+            "annual_reconciliation": "",
+            "constituent_information": "",
+            "sample_letter": "",
+            "expense_form": "",
+            "international_application": "",
+            "leadership_travel_application": "",
+            "student_application": "",
+            "media": "",
+            "annual_report": "",
+            "jrcls_brochure": "",
+            "publicity_request": "",
+            "story_submission": "",
+            "speakers": "",
+            "speakers_request": ""
+        },
+        "leadership_training": {
+            "title": "",
+            "body": ""
+        },
+        "leadership_modules": {
+            "title": "",
+            "body": "",
+            "chapter_development": "",
+            "religious_freedom": "",
+            "service_outreach": "",
+            "build_WIL": "",
+            "young_lawyers": "",
+            "latin_america": "",
+            "why_i_love": ""
+        },
+        "video": {
+            "title": "",
+            "how_to_tell_a_story": "",
+            "leadership_training": "",
+            "principles_leadership": "",
+            "structures_resources": "",
+            "women_in_law": "",
+            "website_training": ""
+        }
+    },
+    "firesides": {
+        "title": "Firesides",
+        "upcoming_firesides": "",
+        "past_firesides": "",
+        "watch": "",
+        "read": "",
+        "heroes_of_unity": "",
+        "religious_freedom": "",
+        "marriage_family": "",
+        "instruments": "",
+        "saint_lawters": "",
+        "ethical_lawyers": "",
+        "family_lawyers": "",
+        "atticus_finch": "",
+        "beginning_end": "",
+        "giants": "",
+        "healers": ""
+    },
+    "forms": {
+        "title": "",
+        "chapter_relations": "",
+        "quality_award": "",
+        "outstanding_award": "",
+        "developing_award": "",
+        "chapter_nomination": "",
+        "banking_info": "",
+        "chapter_report": "",
+        "finance": "",
+        "annual_disbursements": "",
+        "constituent_information": "",
+        "sample_letter": "",
+        "expense_form": "",
+        "international_application": "",
+        "leadership_travel_application": "",
+        "student_application": "",
+        "media": "",
+        "annual_report": "",
+        "jrcls_brochure": "",
+        "publicity_request": "",
+        "story_submission": "",
+        "speakers": "",
+        "speakers_request": ""
+    },
+    "about_page": {
+        "title": "About",
+        "body1": "",
+        "body2": "",
+        "value_proposition": {
+            "title": "",
+            "body": "",
+            "mission_statement": "",
+            "body2": ""
+        },
+        "additional_detail": {
+            "title": "",
+            "p1": "",
+            "p2": "",
+            "p3": ""
+        },
+        "relationship": {
+            "title": "",
+            "body": ""
+        }
+    },
+    "letter_from_the_chair": {
+        "title": "",
+        "welcome": "",
+        "mission": "",
+        "ways_we_fulfill": {
+            "title": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": ""
+        },
+        "conclusion": "",
+        "signature": "",
+        "international_chair": ""
+    },
+    "j_reuben_clark": {
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "p4": "",
+        "p5": "",
+        "p6": "",
+        "p7": "",
+        "p8": "",
+        "p9": "",
+        "p10": "",
+        "p11": ""
+    },
+    "faq": {
+        "title": "",
+        "q1": "",
+        "a1": "",
+        "q2": "",
+        "a2": "",
+        "q3": "",
+        "a3": "",
+        "q4": "",
+        "a4": "",
+        "q5": {
+            "q": "",
+            "a1": "",
+            "a2": "",
+            "a3": ""
+        },
+        "q6": "",
+        "a6": "",
+        "q7": "",
+        "a7": "",
+        "q8": "",
+        "a8": "",
+        "q9": "",
+        "a9": "",
+        "q10": "",
+        "a10": "",
+        "q11": "",
+        "a11": "",
+        "q12": "",
+        "a12": ""
+    },
+    "contact": "",
+    "privacy_policy": {
+        "title": "",
+        "last_revised": "",
+        "who_we_are": {
+            "title": "",
+            "body": ""
+        },
+        "our_mission": {
+            "title": "",
+            "body": ""
+        },
+        "candor_commitment": {
+            "title": "",
+            "body": ""
+        },
+        "law_commitment": {
+            "title": "",
+            "body": ""
+        },
+        "information_tracking": {
+            "title": "",
+            "information_provided": "",
+            "information_collected": "",
+            "information_collected_2": "",
+            "outside_information": "",
+            "children": "",
+            "do_not_track": "",
+            "legal_basis": {
+                "title": "",
+                "consent": "",
+                "legitimate_interests": "",
+                "performance_contract": "",
+                "legal_obligations": "",
+                "vital_interests": ""
+            },
+            "how_we_store": {
+                "title": "",
+                "united_states": "",
+                "security_measures": "",
+                "data_rentention": "",
+                "handling_breaches": ""
+            },
+            "how_we_use_information": {
+                "title": "",
+                "payment": "",
+                "experience": "",
+                "marketing": "",
+                "phone_numbers": "",
+                "email_addresses": "",
+                "protection": ""
+            },
+            "how_we_share_information": {
+                "title": "",
+                "third_parties": "",
+                "byu_law": "",
+                "service_providers": "",
+                "at_your_direction": "",
+                "to_other_members": "",
+                "business_transfers": "",
+                "out_of_necessity": ""
+            },
+            "your_rights": {
+                "title": "",
+                "right_to_access": "",
+                "right_to_ammend": "",
+                "right_to_be_forgotten": "",
+                "right_to_revoke": "",
+                "right_to_unsubscribe": "",
+                "contact": "",
+                "opt_out": ""
+            }
+        },
+        "external_links": {
+            "title": "",
+            "body": ""
+        },
+        "policy_updates": {
+            "title": "",
+            "body": ""
+        },
+        "contact_us": {
+            "title": "",
+            "concerns": "",
+            "questions": "",
+            "address": "",
+            "complaint": "",
+            "effective_date": ""
+        }
+    },
+    "terms_of_use": {
+        "last_updated": "Last Updated: February 20, 2019",
+        "who_we_are": {
+            "title": "",
+            "body": ""
+        },
+        "our_mission": {
+            "title": "",
+            "body": ""
+        },
+        "binding_agreement": {
+            "title": "",
+            "body": ""
+        },
+        "accounts": {
+            "title": "",
+            "registration": "",
+            "security": "",
+            "investigation": "",
+            "suspension": ""
+        },
+        "directory_use": {
+            "title": "",
+            "body": ""
+        },
+        "licenses": {
+            "title": "",
+            "website": "",
+            "content": "",
+            "ideas": ""
+        },
+        "prohibited_uses": {
+            "title": "",
+            "spamming": "",
+            "harassing": "",
+            "hacking": "",
+            "altering": "",
+            "interfering": "",
+            "our_rights": "",
+            "others_rights": ""
+        },
+        "rights_infringed": {
+            "title": "",
+            "responsibility": "",
+            "claims": "",
+            "signature": "",
+            "identification_copyright": "",
+            "identification_content": "",
+            "adequate_information": "",
+            "faith_statement": "",
+            "accurate_statement": "",
+            "authorized_statement": "",
+            "designated_agent": "",
+            "law_society": "",
+            "address": "",
+            "note": "",
+            "fail": ""
+        },
+        "privacy_policy_inc": {
+            "title": "Privacy Policy Incorporated",
+            "body": ""
+        },
+        "indemnity": {
+            "title": "",
+            "body": ""
+        },
+        "external_links": {
+            "title": "",
+            "body": ""
+        },
+        "third_party": {
+            "title": "",
+            "body": ""
+        },
+        "assignments": {
+            "title": "",
+            "body": ""
+        },
+        "website_changes": {
+            "title": "",
+            "body": ""
+        },
+        "disclaimers": {
+            "title": "",
+            "body": "",
+            "disclaimer": ""
+        },
+        "limited_liability": {
+            "title": "",
+            "body": "",
+            "exclusions": ""
+        },
+        "governing_law": {
+            "title": "",
+            "body": ""
+        },
+        "updates": {
+            "title": "",
+            "body": ""
+        },
+        "california": {
+            "title": "",
+            "body": ""
+        },
+        "miscellaneous": {
+            "title": "",
+            "waiver": "",
+            "severability": "",
+            "agreement": "",
+            "communications": "",
+            "effective_date": ""
+        }
     }
 }

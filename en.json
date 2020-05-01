@@ -308,19 +308,20 @@
         }
     },
     "404_page": {
-        "body": ""
+        "body": "404 The page requested could not be found."
     },
     "awards": {
-        "individual_awards": "",
-        "clifford_award": "",
-        "exemplary_leadership": "",
-        "franklin_award": "",
-        "thomas_award": "",
-        "women_award": "",
-        "chapter_awards": "",
-        "developing_award": "",
-        "outstanding_award": "",
-        "quality_award": ""
+        "title": "Awards",
+        "individual_awards": "Individual Awards",
+        "clifford_award": "Clifford Wallace Award",
+        "exemplary_leadership": "Exemplary Leadership",
+        "franklin_award": "Franklin S. Richards Public Service Award",
+        "thomas_award": "Thomas Kane Award",
+        "women_award": "Women in Law Award",
+        "chapter_awards": "Chapter Awards",
+        "developing_award": "Developing Chapter Award",
+        "outstanding_award": "Outstanding Chapter Award",
+        "quality_award": "Quality Chapter Award"
     },
     "franklin_award_page": {
         "p1": "Franklin Snyder Richards, the award’s namesake, was the very first general counsel for the Church of Jesus Christ of Latter-Day Saints. Appointed in January 1890, he continued in that assignment until his death on September 4, 1934. A key defender of the Church and its leaders during the tumultuous period of the late 19th century, Franklin Richards was also a legislator, one of the main advocates for women’s suffrage and a member of the 1895 Utah State Constitutional Convention. His courageous efforts to defend and promote the rights of unpopular, disenfranchised and persecuted minorities opened the door to growth and opportunity for countless numbers of men and women.",
@@ -329,384 +330,393 @@
     },
     "tools_training": {
         "governance": {
-            "bylaws": "",
-            "last_amended": "",
-            "handbook": "",
-            "chapter_leadership_manual": "",
+            "title": "Governance",
+            "bylaws": "Bylaws ",
+            "last_amended": "last amended July 19, 2012",
+            "handbook": "Handbook",
+            "chapter_leadership_manual": "Chapter Leadership Manual",
             "body": "Prepared by the Leadership Development Team to help new leaders navigate the ins and outs of establishing and operating a successful chapter. The manual provides guidelines on many facets of Law Society leadership, including (but not limited to) building a membership base, organizing a Board of Directors, planning activities that serve others and promote religious liberty, and setting goals to achieve Quality, Outstanding, or Developing Chapter Awards.",
-            "spanish": "",
-            "french": "",
-            "portugues": "",
-            "russian": ""
+            "spanish": "Español",
+            "french": "Français",
+            "portugues": "Português",
+            "russian": "Pусский"
         },
         "forms": {
-            "title": "",
-            "chapter_relations": "",
-            "quality_award": "",
-            "outstanding_award": "",
-            "developing_award": "",
-            "chapter_nomination": "",
-            "banking_info": "",
-            "chapter_report": "",
-            "finance": "",
-            "annual_disbursements": "",
-            "constituent_information": "",
-            "sample_letter": "",
-            "expense_form": "",
-            "international_application": "",
-            "leadership_travel_application": "",
-            "student_application": "",
-            "media": "",
-            "annual_report": "",
-            "jrcls_brochure": "",
-            "publicity_request": "",
-            "story_submission": "",
-            "speakers": "",
-            "speakers_request": ""
+            "title": "Forms",
+            "chapter_relations": "Chapter Relations",
+            "quality_award": "Quality Chapter Award",
+            "outstanding_award": "Outstanding Chapter Award",
+            "developing_award": "Developing Chapter Award",
+            "chapter_nomination": "Chapter Leadership Nomination",
+            "banking_info": "Banking Info for Online",
+            "chapter_report": "Chapter Annual History and Report (.doc)",
+            "finance": "Finance",
+            "annual_disbursements": "Annual Report of Remote Cash Receipts and Disbursements",
+            "annual_reconciliation": "Annual Bank Reconciliation",
+            "constituent_information": "Consituent Society Bank Account Information",
+            "sample_letter": "Sample Letter to Open Local Bank Account",
+            "expense_form": "Expense Reimbursement Form",
+            "international_application": "International Chapter Leadership Travel Application",
+            "leadership_travel_application": "US-Based Chapter Leadership Travel Application",
+            "student_application": "Student Leadership Travel Application",
+            "media": "Media",
+            "annual_report": "Annual History and Report (.doc)",
+            "jrcls_brochure": "JRCLS Brochure",
+            "publicity_request": "Publicity Request",
+            "story_submission": "Story Submission",
+            "speakers": "Speakers",
+            "speakers_request": "Speakers & Award Approval Request"
         },
         "leadership_training": {
-            "title": "",
-            "body": ""
+            "title": "Leadership Development & Training",
+            "body": "The Leadership Development Team (LDT) is committed to harnessing the experience and ability of Law Society leaders around the world to help us grow and better serve our communities. If you’d like the LDT to provide training to your chapter leaders, or if you’re willing to share your own experiences and insights with other chapters, please complete this short survey."
         },
         "leadership_modules": {
-            "title": "",
-            "body": "",
-            "chapter_development": "",
-            "religious_freedom": "",
-            "service_outreach": "",
-            "build_WIL": "",
-            "young_lawyers": "",
-            "latin_america": "",
-            "why_i_love": ""
+            "title": "Leadership Orientation Modules",
+            "body": "To assist chapter leaders in being successful in their new roles, the LDT has prepared the following modules that we invite each new leader to complete. Beginning in 2019, a one-hour review of these materials by chapter leadership became a requirement to receive the Quality or Outstanding Chapter Award.",
+            "chapter_development": "Chapter Creation & Development (Español)",
+            "religious_freedom": "Religious Freedom (Español)",
+            "service_outreach": "Service & Outreach ",
+            "build_WIL": "How to Build WIL in Your Chapter (Español)",
+            "young_lawyers": "Young Lawyers & Students (Español)",
+            "latin_america": "Latin America LIason (Español)",
+            "why_i_love": "Why I Love the Annual Leadership Conference"
         },
         "video": {
-            "title": "",
-            "how_to_tell_a_story": "",
-            "leadership_training": "",
-            "principles_leadership": "",
-            "structures_resources": "",
-            "women_in_law": "",
-            "website_training": ""
+            "title": "Video",
+            "how_to_tell_a_story": "How to Tell a Story",
+            "leadership_training": "Leadership Manual Training (Español)",
+            "principles_leadership": "Principles of Effective Leadership",
+            "structures_resources": "Structure & Resources",
+            "women_in_law": "How Women in Law Supports the Law Society",
+            "website_training": "Chapter & Committee Chair Website Training"
         }
     },
     "firesides": {
         "title": "Firesides",
-        "upcoming_firesides": "",
-        "past_firesides": "",
-        "watch": "",
-        "read": "",
-        "heroes_of_unity": "",
-        "religious_freedom": "",
-        "marriage_family": "",
-        "instruments": "",
-        "saint_lawters": "",
-        "ethical_lawyers": "",
-        "family_lawyers": "",
-        "atticus_finch": "",
-        "beginning_end": "",
-        "giants": "",
-        "healers": ""
+        "upcoming_firesides": "Upcoming Fireside",
+        "past_firesides": "Past Firesides",
+        "watch": "Watch",
+        "read": "Read",
+        "heroes_of_unity": "“Heroes of Unity” by Judge Thomas B. Griffith",
+        "religious_freedom": "“The State of Religious Freedom in the World” by Dr. Katrina Lantos Swett",
+        "marriage_family": "“Marriage, Family Law, and the Temple” by Elder Bruce C. Hafen",
+        "instruments": "“Instruments in His Hands: Doing this Great and Marvelous Work” by Elder Larry Echo Hawk",
+        "saint_lawters": "“Latter-day Saint Lawyers and the Public Square” by Elder Quentin L. Cook",
+        "ethical_lawyers": "“On Being Ethical Lawyers” by Sandra Day O’Connor",
+        "family_lawyers": "“Balancing Family, Church, and Profession” by Elder Keith K. Hilbig, Elder Marcus B. Nash, Elder Steven E. Snow",
+        "atticus_finch": "“In Search of Atticus Finch” by Elder Lance B. Wickman",
+        "beginning_end": "“The Beginning and the End of a Lawyer” by Elder Dallin H. Oaks",
+        "giants": "“On Shoulders of Giants” by President Boyd K. Packer",
+        "healers": "“Be Healers” by President James E. Faust"
     },
     "forms": {
-        "title": "",
-        "chapter_relations": "",
-        "quality_award": "",
-        "outstanding_award": "",
-        "developing_award": "",
-        "chapter_nomination": "",
-        "banking_info": "",
-        "chapter_report": "",
-        "finance": "",
-        "annual_disbursements": "",
-        "constituent_information": "",
-        "sample_letter": "",
-        "expense_form": "",
-        "international_application": "",
-        "leadership_travel_application": "",
-        "student_application": "",
-        "media": "",
-        "annual_report": "",
-        "jrcls_brochure": "",
-        "publicity_request": "",
-        "story_submission": "",
-        "speakers": "",
-        "speakers_request": ""
+        "title": "Forms",
+        "chapter_relations": "Attorney Quality Chapter Award",
+        "quality_award": "Quality Chapter Award",
+        "outstanding_award": "Attorney Outstanding Chapter Award",
+        "developing_award": "Attorney Developing Chapter Award",
+        "chapter_nomination": "Chapter Leadership Nomination",
+        "banking_info": "Banking Info for Online",
+        "chapter_report": "Chapter Annual History and Report (.doc)",
+        "finance": "Finance",
+        "annual_disbursements": "Annual Report of Remote Cash Receipts and Disbursements",
+        "annual_reconciliation": "Annual Bank Reconciliation",
+        "constituent_information": "Consituent Society Bank Account Information",
+        "sample_letter": "Sample Letter to Open Local Bank Account",
+        "expense_form": "Expense Reimbursement Form",
+        "international_application": "International Chapter Leadership Travel Application",
+        "leadership_travel_application": "US-Based Chapter Leadership Travel Application",
+        "student_application": "Student Leadership Travel Application",
+        "media": "Media",
+        "annual_report": "Annual History and Report (.doc)",
+        "jrcls_brochure": "JRCLS Brochure",
+        "publicity_request": "Publicity Request",
+        "story_submission": "Story Submission",
+        "speakers": "Speakers",
+        "speakers_request": "Speakers & Award Approval Request"
     },
     "about_page": {
         "title": "About",
-        "body1": "",
-        "body2": "",
+        "body1": "The J. Reuben Clark Law Society consists of thousands of attorneys and other law school graduates from around the world. Our membership includes leaders and aspiring leaders pursuing a myriad of professions, from politics to law, to academia, to corporate governance and beyond.",
+        "body2": "The Law Society was established in 1988. In celebration of its 30th anniversary, the following highlight video was shared at the 2018 Leadership Conference.",
         "value_proposition": {
-            "title": "",
-            "body": ""
+            "title": "Value Proposition",
+            "body": "The mission statement of the J. Reuben Clark Law Society is comprehensive and clear: ",
+            "mission_statement": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law.",
+            "body2": "While many legal professional organizations promote legal education and collegiality, very few have the unique foundation of religious conviction—conviction that we have a God-given responsibility to promote the rule of law and use our legal skills to serve our sisters and brothers. The Law Society provides its members with unique opportunities to learn and serve through their association with others who are motivated by this conviction. Membership of the Law Society extends to all legal professionals and law students worldwide who support this mission, regardless of where they attended law school and independent of religious or political affiliations."
         },
         "additional_detail": {
-            "title": "",
-            "p1": "",
-            "p2": "",
-            "p3": ""
+            "title": "Additional Detail",
+            "p1": "Because strength often comes through concerted effort and supportive networks, the Law Society hosts events centered on local chapters, regional gatherings, and Society-wide events—primarily the Fireside broadcast and Annual Conference. These events foster the development of strong professional relationships and friendships. Learning from each other’s experiences, identifying colleagues with complementary professional skills, and finding wise mentors, all based on a shared foundation of moral conviction, are just a few of the informal benefits the Law Society provides.",
+            "p2": "Continuing legal education is often provided at these events and 30+ hours of continuing legal education are offered each year in conjunction with BYU’s Education Week under the direction of the Law Society. These educational offerings help promote the professional excellence that is a key aspect of the Law Society’s mission. The Law Society focuses on providing education that not only hones legal skills but that uniquely underscores the ways religious convictions should influence our professional practices.",
+            "p3": "Public service is primarily promoted and provided at the local chapter level. Helping others with their legal needs is fundamental to fulfilling the Law Society mission. The Law Society encourages public service by spotlighting the many ways local chapters and individual members are providing service, hopefully sparking ideas and identifying possibilities for others. Moreover, the Law Society is currently providing service opportunities in the criminal justice arena through our broad collaboration with the NAACP. The Law Society promotes public service in all its facets, but because of the key role religious convictions play in our mission, religious freedom is an arena where particular expertise is found."
         },
         "relationship": {
-            "title": "",
-            "body": ""
+            "title": "Relationship to BYU Law Alumni Chapter",
+            "body": "The Law Society’s membership is fairly evenly split between BYU Law graduates and graduates of other law schools. This broad membership is one of the key distinctions between the BYU Law Alumni Chapter and the Law Society. The Law Society needs and values its non-BYU graduates, and their contributions are immense. Moreover, BYU Law gratefully acknowledges that its students receive a great deal of support, particularly in finding employment opportunities, from non-BYU grads. On the flip side, the Law Society could not function as it currently does without the support of BYU and BYU Law. BYU President Kevin Worthen and other key administrators at BYU, particularly the dean of BYU Law, Gordon Smith, invest time and energy into ensuring the success of the Law Society. Employees of BYU Law from External Relations, Marketing and Communications, IT, and Finance devote significant amounts of time providing up front and behind the scenes support for the Law Society. Accordingly, while being sensitive to the fact that the Law Society is not simply another name for a BYU Law alumni group, BYU Law is appropriately given special recognition, access and other privileges because of its direct sponsorship of the Law Society."
         }
     },
     "letter_from_the_chair": {
-        "title": "",
-        "welcome": "",
-        "mission": "",
+        "title": "Letter from the International Chair",
+        "welcome": "Welcome to the website home of the J. Reuben Clark Law Society! We are a society of attorneys and law students who strive to use our legal education and training to make a difference. We encourage our members around the world to serve in their communities in harmony with the highest professional ideals. We also hold in high esteem our mission statement:",
+        "mission": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law.",
         "ways_we_fulfill": {
-            "p1": "",
-            "p2": "",
-            "p3": "",
-            "p4": ""
+            "title": "Here are a few ways we strive to fulfill our great mission:",
+            "p1": "We serve. Our worldwide local chapters and international committees regularly organize pro bono and other service efforts. There are many opportunities to serve in the Law Society. Please contact me or any other Law Society leader if you are interested in helping on a global committee or with your local chapter.",
+            "p2": "We value religious liberty. We know that without religious freedom, the loss of other freedoms is almost certain to follow.",
+            "p3": "We inspire. Through publications, firesides, and continuing education, we model and inspire professional excellence. Accomplished and devoted men and women mentor young professionals. Their examples and insights invigorate and empower generations of leadership.",
+            "p4": "We work together. We long to link arms with other legal societies, non-profit organizations, and local bar associations to bring the power of our legal training and experience directly to those who need it the most. We encourage our members to join forces with other like-minded individuals and groups to educate, inform, and remind decision makers and others of critical causes, like religious freedom. As we team up beyond our own ranks, we hope to foster new friendships, build goodwill, and provide avenues for future collaboration and cooperation."
         },
-        "conclusion": "",
-        "signature": "",
-        "international_chair": ""
+        "conclusion": "On a more personal note, I have been so blessed by my membership in the Law Society for many years. I have seen great examples of law and leadership, met wonderful people who have influenced me for good, and become more engaged in public service and religious freedom efforts. I hope the Law Society can be a blessing in your life as well. Please join us in helping the Law Society become an even more powerful force for good in the world.",
+        "signature": "Joshua Randall",
+        "international_chair": "International Chair, J. Reuben Clark Law Society"
     },
     "j_reuben_clark": {
-        "title": "",
-        "p1": "",
-        "p2": "",
-        "p3": "",
-        "p4": "",
-        "p5": "",
-        "p6": "",
-        "p7": "",
-        "p8": "",
-        "p9": "",
-        "p10": "",
-        "p11": ""
+        "p1": "Joshua Reuben Clark was born on September 1, 1871, in the small farming town of Grantsville, a Mormon settlement thirty-five miles southwest of Salt Lake City. Although he did not begin his formal education until he was ten years old, young Reuben had been tutored at home by his mother and had developed a love for learning that lasted his entire life.",
+        "p2": "On September 14, 1898, J. Reuben Clark married Luacine Annetta Savage in the Salt Lake Temple, with Dr. Talmage officiating at the ceremony. For the next four years he held various positions around the state as a teacher and administrator on both high school and college levels.",
+        "p3": "In 1903 the Clarks, including two small children (two more were to follow), moved to New York City, where Reuben entered law school at Columbia University. His first year’s work was of such high quality that he was among the three second-year students elected to the editorial board of the Columbia Law Review. By the end of his second year he was admitted to the New York Bar. He received an LL.B. degree in 1906.",
+        "p4": "Three months after graduating from law school, Reuben Clark was appointed assistant solicitor of the State Department by Elihu Root, secretary of state under President Theodore Roosevelt. Shortly thereafter he was also named an assistant professor of law at George Washington University , where he taught until 1908.",
+        "p5": "In July 1910, under the administration of President William Howard Taft, Mr. Clark was appointed solicitor of the State Department. As part of his responsibilities he represented the United States in a dispute with Chile. The king of England, serving as arbitrator, ruled in favor of the United States and granted one of the largest international awards up to that time—nearly a million dollars. Also during his solicitorship, Clark published his classic “Memorandum on the Right to Protect Citizens in Foreign Countries by Landing Forces.” Secretary of State Philander C. Knox declared of Mr. Clark: “I am doing him but justice in saying that for natural ability, integrity, loyalty, and industry, I have not in a long professional and public service met his superior and rarely his equal.”",
+        "p6": "J. Reuben Clark left the State Department in 1913 to open law offices in Washington, D.C., specializing in municipal and international law. His clients included the Japanese Embassy, Philander C. Knox, the Cuban Legation, the Guatemalan Ministry, J.P. Morgan & Company, and the Equitable Life Assurance Society.",
+        "p7": "During World War I, Mr. Clark received a commission as major in the Judge Advocate General’s Officers’ Reserve Corps. In this capacity he helped prepare the original Selective Service regulations. He was then assigned on active duty to the U.S. attorney general’s office where he prepared “emergency Legislation and War Powers of the President.” In recognition of his meritorious service, he was awarded the Distinguished Service Medal.",
+        "p8": "By President Coolidge’s appointment, Mr. Clark became the under secretary of state in 1928. During this service he published the “Clark Memorandum on the Monroe Doctrine,” praised by critics as a “monument of erudition” and a “Masterly treatise.” The Law Society’s semiannual publication takes its name from this famous work.",
+        "p9": "On October 3, 1930, J. Reuben Clark was named U.S. ambassador to Mexico. After his resignation two and a half years later, Mr. Clark’s diplomatic efforts were praised by President Herbert Hoover, who said, “Never have our relations been lifted to such a high point of confidence and cooperation.”",
+        "p10": "In 1933, at age sixty-two, Mr. Clark’s lifelong devotion to the Church culminated in a new calling—counselor to President Heber J. Grant of The Church of Jesus Christ of Latter-day Saints. As a member of the First Presidency, President Clark was a leading supporter of the Church welfare plan. He also helped put the finances of the Church on a budget plan. He was an inspirational leader and spoke forcefully on topics including freedom, his court, the inspired Constitutions, work, integrity, and chastity. An avid student of the life and teachings of the Lord Jesus Christ, he authored many scholarly books on gospel topics.",
+        "p11": "In addition to his Church duties, J. Reuben Clark continued to share his professional expertise as a member of corporate boards; government, political, and private committees; and academic journal and educational boards. He also bought and maintained a farm in Grantsville, his boyhood home."
     },
     "faq": {
-        "title": "",
-        "q1": "",
-        "a1": "",
-        "q3": "",
-        "a3": "",
-        "q4": "",
-        "a4": "",
+        "title": "FAQ",
+        "q1": "Do I have to be a member of The Church of Jesus Christ of Latter-day Saints or be a BYU Law student or alum to be a Law Society member?",
+        "a1": "No. The Law Society welcomes any law school student or graduate of any faith who supports the mission statement.",
+        "q2": "What is the difference between the BYU Law Alumni Chapter and the J. Reuben Clark Law Society?",
+        "a2": "The BYU Law Alumni Chapter is a professional chapter within the BYU Alumni Association. The J. Reuben Clark Law Society (JRCLS) is an international, local chapter based society of faith-based attorneys and law students.",
+        "q3": "What is the relationship between BYU Law and the J. Reuben Clark Law Society?",
+        "a3": "The Law Society is supported financially by BYU Law and The Church of Jesus Christ of Latter-day Saints. It operates under the 501(c)(3) established and maintained by BYU. BYU Law lends many of its resources and staff to supporting Law Society operations. Some BYU Law employees and alumni serve in Law Society leadership. Many Law Society members are BYU Law alumni.",
+        "q4": "What is the purpose of the J. Reuben Clark Law Society?",
+        "a4": "To affirm the strength brought to the law by a lawyer’s religious conviction. To strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law.",
         "q5": {
-            "a1": "",
-            "a2": "",
-            "a3": ""
+            "q": "What are the benefits for me as a member of the Law Society?",
+            "a1": "Membership in the J. Reuben Clark Law Society will provide you with unique opportunities to learn and serve through your association with others who are motivated by their religious conviction to promote the rule of law and use their legal skills to serve others.",
+            "a2": "Privileges of general membership in the Society include professional association and mentoring, leadership opportunities, access to our online-searchable database, and invitations to educational events including lunches, dinners, firesides, symposiums, continuing legal education presentations, webinars, and conferences. Additional benefits of a membership include employment assistance and networking.",
+            "a3": "The Law Society holds many events at the local and international level. These events often include continuing legal education; additionally, 30+ hours of continuing legal education are offered each year in conjunction with BYU’s Education Week."
         },
-        "q6": "",
-        "a6": "",
-        "q7": "",
-        "a7": "",
-        "q8": "",
-        "a8": "",
-        "q9": "",
-        "a9": "",
-        "q10": "",
-        "a10": "",
-        "q11": "",
-        "a11": "",
-        "q12": "",
-        "a12": ""
+        "q6": "What is the cost of membership?",
+        "a6": "Membership is open to students and graduates from any law school and requires affirmative choice. Basic membership is free. Beginning Fall 2020, tiered membership dues will be associated with certain benefits. Additional dues are determined by local chapters.",
+        "q7": "What events are hosted by the J. Reuben Clark Law Society?",
+        "a7": "The majority of events are held at the local level, and the nature of these is determined by local chapters. The JRCLS hosts three yearly international events: the Leadership Conference at Aspen Grove, the Annual Fireside, which is broadcast from Salt Lake City, and the Annual Conference, which is held in a different location every year.",
+        "q8": "What service opportunities are available to me as a member?",
+        "a8": "Facilitating individual service is part of the mission of the Law Society. Public service is primarily promoted and provided at the local chapter level, and chapters provide many opportunities for service by helping others with their legal needs. Examples include pro bono service and mentoring law students and new attorneys.",
+        "q9": "Will membership in the Law Society require financially supporting BYU Law?",
+        "a9": "No. The Law Society supports the rising generation of attorneys, including BYU Law students, but there is no expectation of financially supporting BYU Law.",
+        "q10": "How do I learn more about the Law Society?",
+        "a10": "In addition to its website (jrcls.org), which includes articles, newsletters, and information about past and upcoming events, the Law Society communicates via Facebook, YouTube, and other social media accounts.",
+        "q11": "Whom do I contact if I experience technical problems with this website?",
+        "a11": "Contact HelpDesk at (801) 422-3884 or helpdesk@law.byu.edu.",
+        "q12": "Whom do I contact if I have additional questions?",
+        "a12": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu"
     },
-    "contact": "",
+    "contact": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu",
     "privacy_policy": {
-        "title": "",
-        "last_revised": "",
+        "title": "Privacy Policy",
+        "last_revised": "Last Revised: February 20, 2020",
         "who_we_are": {
-            "title": "",
-            "body": ""
+            "title": "Who We Are",
+            "body": "The J. Reuben Clark Law Society (“we” or “us”) operates this website (the “Website”) in close association with the BYU Law School. If you have questions, comments, or concerns about our Privacy Policy (this “Policy” or “Privacy Policy”), you may email: externalrelations@law.byu.edu."
         },
         "our_mission": {
-            "title": "",
-            "body": ""
+            "title": "Our Mission",
+            "body": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law."
         },
         "candor_commitment": {
-            "title": "",
-            "body": ""
+            "title": "Our Commitment to Candor",
+            "body": "We value transparency. The primary purpose of our Policy is to describe how and when we may collect, store, use, share, and protect your information."
         },
         "law_commitment": {
-            "title": "",
-            "body": ""
+            "title": "Our Commitment to the Law",
+            "body": "We strive to understand and abide by all applicable privacy laws in how we collect, store, use, share, and protect your information. If any part of our Policy is unlawful, it is inadvertent and void."
         },
         "information_tracking": {
-            "title": "",
-            "information_provided": "",
-            "information_collected": "",
-            "information_collected_2": "",
-            "children": "",
-            "do_not_track": "",
+            "title": "How We Collect Information about You",
+            "information_provided": "Information You Provide Us Directly – As you use the Website, there are numerous contexts in which you may freely give us your personal information. For example, you may give us your name, email address, mailing address, phone number, job information, username and password, and payment card information.",
+            "information_collected": "Information Automatically Collected – We may track and store any information about your use of the Website, including but not limited to your location, browser type, referring URL, computer’s operating system, Internet Service Provider, IP host address, domain name, time and date of visit, pages viewed, links clicked, and time spent on each element. We may use cookies to track your user preferences, username, password, or other details to streamline your experience. We may also use web beacons to track your use of the Website and interaction with the emails we send you. For example, web beacons may let us know whether you received or opened an email. You may be able to disable some web beacons by displaying emails as text only and adjusting browser settings.",
+            "information_collected_2": "We may also use third party analytics tools, such as Google Analytics, Google conversion tracking, and Facebook Pixel. In these cases, our third-party service providers may use cookies for our analytics purposes.",
+            "outside_information": "Outside Information – We may receive information about you from third parties or public databases.",
+            "children": "Children – If you are under the age of 13, we won’t knowingly collect any information about you and you may not use the Website. If you believe we might have any personal information from or about a child under the age of 13, please contact us at: externalrelations@law.byu.edu.",
+            "do_not_track": "Do Not Track Signals – Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this time, the Website does not respond to the preferences you may have set in your web browser regarding such collection of your information, and the Website may continue to collect information in the manner described in this Privacy Policy.",
             "legal_basis": {
-                "title": "",
-                "consent": "",
-                "legitimate_interests": "",
-                "performance_contract": "",
-                "legal_obligations": "",
-                "vital_interests": ""
+                "title": "Legal Basis for Collection and Processing – We collect and process personal information on the following legal bases.",
+                "consent": "Consent. We may process your data if you have given us specific consent to use your personal information in a specific purpose.",
+                "legitimate_interests": "Legitimate Interests. We may process your data when it is reasonably necessary to achieve our legitimate business interests.",
+                "performance_contract": "Performance of a Contract. Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.",
+                "legal_obligations": "Legal Obligations. We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).",
+                "vital_interests": "Vital Interests. We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved."
             },
             "how_we_store": {
-                "title": "",
-                "united_states": "",
-                "security_measures": "",
-                "data_rentention": "",
-                "handling_breaches": ""
+                "title": "How We Store Your Information",
+                "united_states": "Storage in United States – Even if you access the Website from a foreign country, we store your information in the United States in accordance with its laws. Subject to your rights set forth below, by using the Website, you consent to the transfer of your information to and storage of your information in the United States.",
+                "security_measures": "Security Measures But No Warranty – We implement a variety of reasonable security measures to maintain the safety of your personal information. Your personal information is stored in secured networks that are only accessible to individuals with special access rights. In addition, all sensitive information, like credit card information, will usually be encrypted via Secure Socket Layer/Transport Layer Security technology. That said, security can never be guaranteed. We don’t warrant the security of any information that we collect.",
+                "data_rentention": "Data Retention – We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements).",
+                "handling_breaches": "Handling Breaches – If we learn of a security breach with respect to your personally identifiable information, our first priority will be to determine the scope of the damage, notify and work with law enforcement, and engage in remedial measures, as appropriate. We’ll also notify you via email as soon as reasonably possible."
             },
             "how_we_use_information": {
-                "title": "",
-                "payment": "",
-                "experience": "",
-                "marketing": "",
-                "phone_numbers": "",
-                "email_addresses": "",
-                "protection": ""
+                "title": "How We Use Your Information",
+                "payment": "Payment Processing – We may collect and store information created by your purchases, including payment method information, merchant’s name, and the date, time, and amount of the transaction. To streamline future purchases, we may store your credit or debit card number, card expiration date, and billing and shipping addresses.",
+                "experience": "Experience Enhancement – We may use the personal information we collect to provide you services and enhance your user experience. For example, we may use your location to provide local trends, stories, or ads. We may use the information we collect to make inferences about you, like what topics you may be interested in, what teams you may like, etc., to customize content, including ads.",
+                "marketing": "Marketing Purposes – We use the information we collect to inform you about opportunities we believe you may be interested in. You may unsubscribe from any notification by following the instructions contained within the notification or emailing us at externalrelations@law.byu.edu with your request.",
+                "phone_numbers": "Phone numbers. By default, if you provide us with your phone number, you agree to receive marketing text messages to that number and pay any associated fees for receiving such messages.",
+                "email_addresses": "Email addresses. By default, if you provide us your email address, you agree to receive emails from us, including marketing emails.",
+                "protection": "Protection – We may access, process, and retain for an extended period of time any information collected about you when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We may retain information from accounts disabled for violations of our terms for at least one year to prevent repeat abuse or other violations."
             },
             "how_we_share_information": {
-                "title": "",
-                "third_parties": "",
-                "byu_law": "",
-                "service_providers": "",
-                "at_your_direction": "",
-                "to_other_members": "",
-                "business_transfers": "",
-                "out_of_necessity": ""
+                "title": "How We Share Your Information",
+                "third_parties": "Information for Specific Third Parties – We may disclose aggregated or deidentified information about our Website users and members without restriction. We may share your personal information in the following situations:",
+                "byu_law": "BYU Law and The Church of Jesus Christ of Latter-day Saints. Given the close relationship between BYU Law, The Church of Jesus Christ of Latter-day Saints, and the Law Society, any information you provide to the Law Society via this website will also be accessible to BYU Law and The Church of Jesus Christ of Latter-day Saints.",
+                "service_providers": "Service providers. We engage service providers, like credit card processing companies and website hosting partners, to perform functions for us. We may share your personal information with them, subject to obligations consistent with our Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that they use your information only on our behalf and pursuant to our instructions.",
+                "at_your_direction": "At your direction. We may share your information at your direction, such as when you authorize a third-party web client or application to access your account.",
+                "to_other_members": "To other members. When you share personal information on the Website or otherwise interact with public areas of the Website, such personal information may be viewed by all users and may be publicly distributed outside the Website.",
+                "business_transfers": "Business transfers. If we’re involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, all your information may be sold or transferred as part of that transaction. This Policy will apply to your transferred information.",
+                "out_of_necessity": "Out of necessity. We may share information if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or government request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect our rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s release request."
             },
             "your_rights": {
-                "title": "",
-                "right_to_access": "",
-                "right_to_ammend": "",
-                "right_to_be_forgotten": "",
-                "right_to_revoke": "",
-                "right_to_unsubscribe": "",
-                "contact": "",
-                "opt_out": ""
+                "title": "Your Rights",
+                "right_to_access": "Right to Access your Personal Information. You have the right to access the personal information we hold about you. At your request, we will provide you with a copy of the personal information that we have about you.",
+                "right_to_ammend": "Right to Amend/Correct. If you discover that the personal information we hold about you is incorrect or out of date, you may ask us to correct that personal information.",
+                "right_to_be_forgotten": "Right to be Forgotten. You may ask us to delete the personal information we hold about you in certain circumstances. It may not be possible for us to delete all of the information we hold about you where we have an ongoing relationship, however please contact us and we will do our best to assist with your request.",
+                "right_to_revoke": "Right to Revoke Consent. Where we process your data on the basis that you have consented to such processing, you have the right to withdraw your consent at any time by contacting us.",
+                "right_to_unsubscribe": "Right to Unsubscribe. If you have received a promotional email from us, you can also opt out of receiving future promotional emails from us by following the unsubscribe instructions contained in such email.",
+                "contact": "If you would like to exercise any of these rights, please contact us through the contact information below.",
+                "opt_out": "Additionally, you may opt out of the aggregation and analysis of data collected about you on the Website by Google Analytics. You can prevent the collection of data generated by cookies and related to the use of this website by downloading and installing the “plug-in” located at the following link: http://tools.google.com/dlpage/gaoptout."
             }
         },
         "external_links": {
-            "title": "",
-            "body": ""
+            "title": "External Links",
+            "body": "The Website may contain links to other sites for your convenience. We have no responsibility for the content or privacy practices of any third-party site, and we encourage you to review their privacy policies if you have any questions about how they process personal information."
         },
         "policy_updates": {
-            "title": "",
-            "body": ""
+            "title": "Policy Updates",
+            "body": "We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. If we make a material change to our Privacy Policy, we will provide notice to you (by email or posting on the Website) that our privacy practices have changed and will provide a link to the new policy. In the event we make a material change to how we process your personal information, we will provide you with an opportunity to opt out of such new or different use. The date this Privacy Policy was last revised is at the top of this page. We encourage you to review this Privacy Policy periodically to check for any updates or changes."
         },
         "contact_us": {
-            "title": "",
-            "concerns": "",
-            "questions": "",
-            "address": "",
-            "complaint": "",
-            "effective_date": ""
+            "title": "Contact Us",
+            "concerns": "If you have concerns or claims with respect to how we handle your information, please let us know. We’ll investigate and attempt to promptly resolve any complaints.",
+            "questions": "For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at externalrelations@law.byu.edu or by mail using the details provided below:",
+            "address": "address",
+            "complaint": "You also have the right to lodge a complaint directly with your local supervisory authority or data protection authority.",
+            "effective_date": "Effective: February 20, 2020"
         }
     },
     "terms_of_use": {
         "last_updated": "Last Updated: February 20, 2019",
         "who_we_are": {
-            "title": "",
-            "body": ""
+            "title": "Who We Are",
+            "body": "The J. Reuben Clark Law Society (“JRCLS”, “we” or “us”) operates this website (the “Website”) in close association with the BYU Law School. If you have questions, comments, or concerns about our Terms of Use (these “Terms”), you may email: externalrelations@law.byu.edu."
         },
         "our_mission": {
-            "title": "",
-            "body": ""
+            "title": "Our Mission",
+            "body": "We affirm the strength brought to the law by a lawyer's personal religious conviction. We strive through public service and professional excellence to promote fairness and virtue founded upon the rule of law."
         },
         "binding_agreement": {
-            "title": "",
-            "body": ""
+            "title": "Usage Creates Binding Agreement",
+            "body": "By accessing or using the Website, you (a) acknowledge that you have read, understand, and agree to these Terms, and (b) affirm that you are at least 18 years of age (or have reached the age of majority in the jurisdiction where you reside)."
         },
         "accounts": {
-            "title": "",
-            "registration": "",
-            "security": "",
-            "investigation": "",
-            "suspension": ""
+            "title": "Accounts",
+            "registration": "Registration – You may not use the account, username, or password of anyone else at any time. When you create an account or update your profile on the Website, you must provide accurate information.",
+            "security": "Security – If you create a username and password, you may not share them with anyone, and you are responsible for maintaining their confidentiality. You will be liable for any loss that results from anyone using your account with your permission or due to your failure to log out of your account or protect your username and password. You must immediately notify us if you suspect any unauthorized account use.",
+            "investigation": "Investigation – To ensure that we provide a high-quality experience for you and for other users, you agree that we may access your account and records on a case-by-case basis to investigate complaints or allegations of abuse, or infringement of third-party rights. We do not intend to disclose the existence or occurrence of such an investigation unless required by law.",
+            "suspension": "Suspension; Termination – We have the right to deny access to, and to suspend or terminate your access to, the Website or to any features or portions thereof, at any time and for any reason, including if you violate these Terms. In the event that we suspend or terminate your access to the Website, you will continue to be bound by the Terms that were in effect as of the date of your suspension or termination."
         },
         "directory_use": {
-            "title": "",
-            "body": ""
+            "title": "Directory Use",
+            "body": "The directory made available on the Website is to facilitate connections between JRCLS members, using information that is largely self-reported. JRCLS does not make lawyer referrals, and undertakes no duty to verify or confirm the accuracy of information listed in this directory. Inclusion of a lawyer in this directory does not constitute an endorsement of that lawyer or represent ability or competency to handle any specific legal matter."
         },
         "licenses": {
-            "title": "",
-            "website": "",
-            "content": "",
-            "ideas": ""
+            "title": "Licenses",
+            "website": "License to Use the Website. Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Website for your personal, non-commercial use, including any graphics, text, instructions, images, audio files and/or other sounds, videos, and other materials you may view on, access through, or are otherwise related to the Website (the “Content”).",
+            "content": "License to Your User Content. The Website may provide users with the opportunity to upload their own content to the Website (“User Content”). You hereby grant to JRCLS an irrevocable, perpetual, non-exclusive, transferable, sublicensable, royalty-free, worldwide right and license to use, reproduce, display, perform, distribute, and prepare derivative works of any User Content you post on or through the Website for any purpose and in all forms and all media, whether now known or that become known in the future, and you waive any and all claims that you may have now or may hereafter have in any jurisdiction to so-called “rental rights,” “moral rights,” and all rights of “droit moral” in that User Content, even if the User Content is altered or changed in a manner not agreeable to you. If you post User Content, you represent and warrant to us that you own or control all rights in and to such User Content and have the right to grant the rights above to us. You agree that you are responsible for all User Content that you upload to the Website.",
+            "ideas": "Submitted Ideas. While we appreciate your interest in the Website and the Law Society, we do not want and cannot accept any ideas or information that users consider confidential and/or proprietary. This is to avoid the possibility of future misunderstandings when projects independently developed by or on behalf of us might seem to others to be similar to users’ own creative ideas, suggestions, and/or materials. Except with respect to your personal information as expressly provided for in our Privacy Policy, all comments, suggestions, ideas, drawings, concepts, or other information or materials disclosed or offered to us by you via the Website or in response to solicitations on the Website shall be deemed to be non-confidential and non-proprietary."
         },
         "prohibited_uses": {
-            "title": "",
-            "spamming": "",
-            "harassing": "",
-            "hacking": "",
-            "altering": "",
-            "interfering": "",
-            "our_rights": "",
-            "others_rights": ""
+            "title": "Prohibited Uses",
+            "spamming": "No Spamming – Unless pursuant to a legitimate Law Society purpose, you may not use directory information to send mass or bulk emails or text messages, including ads.",
+            "harassing": "No Harassing – You may not use the Website or post User Content on the Website in a way that is unlawful, abusive, malicious, harassing, tortious, defamatory, vulgar, obscene, or libelous.",
+            "hacking": "No Hacking – You may not access or attempt to access any services, Content, user accounts, computer systems, or networks without permission, through hacking, password mining. or any other means. You may not probe, scan, or test the vulnerability of the Website, or any associated system or network. You may not infect or attempt to infect the Website with any virus.",
+            "altering": "No Altering – You may not reverse-engineer, decompile, disassemble, or otherwise reduce or attempt to reduce to a human-perceivable form any of the source code used in the Website. You may not alter or attempt to alter any part of the Website beyond the customizations that we enable.",
+            "interfering": "No Interfering – You may not use our services or site in any way that may damage, disable, overburden, or impair our servers or networks. You may not interfere with others’ use or enjoyment of the Website. Though not all-inclusive, you may not overload, “flood,” “mail bomb,” or “crash” the Website.",
+            "our_rights": "No Infringing Our Rights – The Content is protected by copyright, trademark, and other proprietary rights. You may not copy or share any Content without consent of the applicable owner or licensor. We (and our licensors) own and retain the property rights to the Content. You do not acquire ownership rights to any Content by using the Website. You may not modify or delete any copyright, trademark, or other proprietary rights notices that appear on the Website.",
+            "others_rights": "No Infringing Others’ Rights – You must respect the property rights, including intellectual property rights, of others. We will respond to notices of alleged infringement that comply with applicable law and are properly provided to us. We reserve the right to remove User Content alleged to be infringing without prior notice and at our sole discretion."
         },
         "rights_infringed": {
-            "title": "",
-            "responsibility": "",
-            "claims": "",
-            "signature": "",
-            "identification_copyright": "",
-            "identification_content": "",
-            "adequate_information": "",
-            "faith_statement": "",
-            "accurate_statement": "",
-            "authorized_statement": "",
-            "designated_agent": "",
-            "law_society": "",
-            "address": "",
-            "note": "",
-            "fail": ""
+            "title": "If Your Rights Are Infringed",
+            "responsibility": "We have no responsibility to review or approve any User Content before it’s published on the Website. However, we respect the intellectual property rights of others and expect our users to do the same.",
+            "claims": "We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any Content accessible on the Website infringes your copyright, you may request removal of such Content (or access thereto) by submitting written notification to our copyright agent designated below. In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) (“DMCA”), your written notice of alleged copyright infringement must include substantially the following:",
+            "signature": "your physical or electronic signature;",
+            "identification_copyright": "identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Website, a representative list of such works;",
+            "identification_content": "identification of the Content you believe to be infringing in a sufficiently precise manner to allow us to locate that Content;",
+            "adequate_information": "adequate information by which we can contact you (including your name, postal address, telephone number and, if available, email address);",
+            "faith_statement": "a statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law;",
+            "accurate_statement": "a statement that the information in your written notice is accurate; and ",
+            "authorized_statement": "a statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.",
+            "designated_agent": "Our designated agent to receive DMCA notices is:",
+            "law_society": "Reuben Clark Law Society",
+            "address": "address",
+            "note": "*NOTE: This contact information is for inquiries regarding potential copyright infringement only.",
+            "fail": "If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA notice may not be effective. Please be aware that if you knowingly materially misrepresent that Content on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA."
         },
         "privacy_policy_inc": {
             "title": "Privacy Policy Incorporated",
-            "body": ""
+            "body": "All personal information collected by JRCLS through the Website will be governed by our Privacy Policy."
         },
         "indemnity": {
-            "title": "",
-            "body": ""
+            "title": "Indemnity",
+            "body": "You agree to indemnify and defend us, our affiliates, officers, directors, employees, consultants, agents, and representatives from any and all third-party claims, losses, liability, damages, and costs (including reasonable attorney fees and costs) arising from (1) your violation of these Terms; (2) your infringement, or infringement by any other user of your account, of any right of any person or entity; or (3) your use of the Website or any Content. Your indemnification, defense, and hold harmless obligations will survive the termination of your use of the Website and/or these Terms."
         },
         "external_links": {
-            "title": "",
-            "body": ""
+            "title": "External Links and Third-Party Materials",
+            "body": "The Services may display, include, or make available third-party materials (including data, information, applications and other products services and/or materials) or provide links to third-party websites or services (collectively, “Third-Party Materials”). You acknowledge and agree that we are not responsible for any Third-Party Materials, including their accuracy, completeness, timeliness, validity, legality, decency, quality, or any other aspect thereof. We do not assume and will not have any liability to you or any other person or entity for any Third-Party Materials. Third-Party Materials and links thereto are provided solely as a convenience to you, and you access and use them at entirely at your own risk and subject to such third parties’ terms and conditions."
         },
         "third_party": {
-            "title": "",
-            "body": ""
+            "title": "Third-Party Beneficiaries",
+            "body": "Our service providers are third-party beneficiaries of these Terms and may (subject to our agreements with them) enforce our rights with respect to any infringement by you without joining us in any suit."
         },
         "assignments": {
-            "title": "",
-            "body": ""
+            "title": "Assignments",
+            "body": "We may assign this agreement, its duties, or its benefits at any time without notice. You may not assign this contract, its duties, or its benefits to anyone else."
         },
         "website_changes": {
-            "title": "",
-            "body": ""
+            "title": "Changes to the Website",
+            "body": "We reserve the right to make changes to, suspend, or discontinue (temporarily or permanently) the Website or any portion thereof (including any Content) at any time. You agree that we will not be liable to you or to any third party for any such change, suspension, or discontinuance."
         },
         "disclaimers": {
-            "title": "",
-            "body": "",
-            "disclaimer": ""
+            "title": "Disclaimers of Warranty",
+            "body": "You use the Website at your own risk. We provide the Website “as is” and “as available.” Any information obtained through the Website is done at your risk.",
+            "disclaimer": "WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT OUR SERVICES OR WEBSITE WILL MEET YOUR EXPECTATIONS OR REQUIREMENTS, OR WILL BE UNINTERRUPTED, TIMELY, SECURE, ACCURATE, UP-TO-DATE, COMPLETE, ERROR-FREE, OR VIRUS-FREE. WE ALSO DO NOT WARRANT THAT WE WILL CORRECT ANY DEFECTS."
         },
         "limited_liability": {
-            "title": "",
-            "body": "",
-            "exclusions": ""
+            "title": "Limitation of Liability",
+            "body": "TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL WE OR OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, OR SERVICE PROVIDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SERVICES OR THE CONTENT, INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS, LOSS OF USE, OR LOSS OF DATA, WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. THE FOREGOING LIMITATIONS SHALL APPLY EVEN IF YOUR REMEDIES UNDER THESE TERMS OF USE FAIL OF THEIR ESSENTIAL PURPOSE. USE OF THE WEBSITE AND OUR SERVICES IS AT YOUR SOLE RISK.",
+            "exclusions": "Some jurisdictions do not allow the exclusion or limitation of certain warranties or consequential damages, so some of the exclusions and/or limitations in this Section 15 may not apply to you."
         },
         "governing_law": {
-            "title": "",
-            "body": ""
+            "title": "Governing Law",
+            "body": "These Terms are governed by the laws of the State of Utah, other than such laws and case law that would result in the application of the laws of a jurisdiction other than the State of Utah."
         },
         "updates": {
-            "title": "",
-            "body": ""
+            "title": "Updates to these Terms",
+            "body": "You have a responsibility to review these Terms periodically. We may revise these Terms at any time. If we make a change to these Terms that, in our sole discretion, is material, we will update this webpage and may send an email to the address associated with your account. By continuing to visit the Website after those changes become effective, you agree to be bound by those changes regardless of whether we have issued an email notification. The date these Terms were last updated is set forth at the top of this webpage."
         },
         "california": {
-            "title": "",
-            "body": ""
+            "title": "California Residents",
+            "body": "If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (800) 952-5210."
         },
         "miscellaneous": {
-            "title": "",
-            "waiver": "",
-            "severability": "",
-            "agreement": "",
-            "communications": "",
-            "effective_date": ""
+            "title": "Miscellaneous",
+            "waiver": "Waiver – We may waive (or forgive liability) of any breach (or failure) by you to abide by any of these Terms. However, no waiver is valid unless it is signed and in writing. Also, waivers apply only to specifically identified failures and do not give you permission to breach Terms at other times.",
+            "severability": "Severability – If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent possible, and the remaining provisions of these Terms will continue in full force and effect.",
+            "agreement": "Entire Agreement – These Terms, together with our Privacy Policy, constitute the sole and entire agreement between you and us with respect to the subject matter hereof, and supersede and replace all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.",
+            "communications": "Electronic Communications – The communications between you and us via the Website use electronic means. For contractual purposes, you consent to receive communications from us in electronic form, and you agree that all terms and conditions, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.",
+            "effective_date": "Effective Date: February 20, 2019"
         }
     }
 }
