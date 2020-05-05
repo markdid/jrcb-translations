@@ -643,80 +643,80 @@
             "harassing": "Hostigamiento: No puede usar el sitio web ni publicar contenido del usuario en el sitio web de manera ilegal, abusiva, maliciosa, acosadora, tortuosa, difamatoria, vulgar, obscena o calumniosa.",
             "hacking": "Piratería: No puede acceder ni intentar acceder a ningún servicio, Contenido, cuentas de usuario, sistemas informáticos o redes sin permiso, mediante piratería, extracción de contraseñas. o cualquier otro medio. No puede sondear, escanear ni probar la vulnerabilidad del sitio web, ni de ningún sistema o red asociados. No puede infectar o intentar infectar el sitio web con ningún virus.",
             "altering": "Alteraciones: No puede realizar ingeniería inversa, descompilar, desensamblar o reducir o intentar reducir de forma perceptible a los humanos el código fuente utilizado en el sitio web. No puede alterar ni intentar alterar ninguna parte del sitio web más allá de las personalizaciones que habilitamos.",
-            "interfering": "Interferencias: No puede utilizar nuestros servicios o sitio de ninguna manera que pueda dañar, deshabilitar, sobrecargar o perjudicar nuestros servidores o redes. No puede interferir con el uso o disfrute del Sitio web por parte de otros. Aunque no incluye todo, no puede sobrecargar, "inundar", "bombardear" o "bloquear" el sitio web.",
+            "interfering": "Interferencias: No puede utilizar nuestros servicios o sitio de ninguna manera que pueda dañar, deshabilitar, sobrecargar o perjudicar nuestros servidores o redes. No puede interferir con el uso o disfrute del Sitio web por parte de otros. Aunque no incluye todo, no puede sobrecargar, \"inundar\", \"bombardear\" o \"bloquear\" el sitio web.",
             "our_rights": "No Infringir Nuestros Derechos: El contenido está protegido por derechos de autor, marca registrada y otros derechos de propiedad. No puede copiar ni compartir ningún Contenido sin el consentimiento del propietario o licenciante correspondiente. Nosotros (y nuestros licenciantes) poseemos y conservamos los derechos de propiedad del Contenido. No adquiere derechos de propiedad sobre ningún Contenido al usar el Sitio web. No puede modificar ni eliminar ningún aviso de derechos de autor, marca registrada u otros derechos de propiedad que aparezcan en el sitio web.",
-            "others_rights": ""
+            "others_rights": "No Infringir los Derechos de los Demás: Debe respetar los derechos de propiedad, incluidos los derechos de propiedad intelectual, de los demás. Responderemos a los avisos de presuntas infracciones que cumplan con la ley aplicable y se nos proporcionen adecuadamente. Nos reservamos el derecho de eliminar el Contenido del usuario que supuestamente infringe sin previo aviso y a nuestro exclusivo criterio."
         },
         "rights_infringed": {
-            "title": "",
-            "responsibility": "",
-            "claims": "",
-            "signature": "",
-            "identification_copyright": "",
-            "identification_content": "",
-            "adequate_information": "",
-            "faith_statement": "",
-            "accurate_statement": "",
-            "authorized_statement": "",
-            "designated_agent": "",
-            "law_society": "",
-            "address": "",
-            "note": "",
-            "fail": ""
+            "title": "Si Se Infringen Sus Derechos",
+            "responsibility": "No tenemos la responsabilidad de revisar ni aprobar ningún Contenido del usuario antes de que se publique en el Sitio web. Sin embargo, respetamos los derechos de propiedad intelectual de otros y esperamos que nuestros usuarios hagan lo mismo",
+            "claims": "Nosotros tomamos en serio las reclamaciones de infracción de derechos de autor. Responderemos a las notificaciones de presuntas infracciones de derechos de autor que cumplan con la ley aplicable. Si cree que cualquier Contenido accesible en el Sitio web infringe sus derechos de autor, puede solicitar la eliminación de dicho Contenido (o acceder a él) enviando una notificación por escrito a nuestro agente de derechos de autor designado a continuación. De conformidad con la Ley de limitación de responsabilidad por infracción de derechos de autor en línea de la ley de derechos de autor del milenio digital (17 U.S.C.§ 512) (\"DMCA\"), su notificación por escrito de presunta infracción de derechos de autor debe incluir sustancialmente lo siguiente:",
+            "signature": "Su firma física o electrónica;",
+            "identification_copyright": "Identificación del trabajo protegido por derechos de autor que cree que se ha infringido o, si el reclamo involucra múltiples trabajos en el sitio web, una lista representativa de dichos trabajos;",
+            "identification_content": "Identificación del Contenido que cree que está infringiendo de manera suficientemente precisa para permitirnos localizar ese Contenido;",
+            "adequate_information": "Información adecuada por la cual podemos contactarlo (incluyendo su nombre, dirección postal, número de teléfono y, si está disponible, dirección de correo electrónico);",
+            "faith_statement": "Una declaración de que cree de buena fe que el uso del material protegido por derechos de autor no está autorizado por el propietario de los derechos de autor, su agente o la ley;",
+            "accurate_statement": "Una declaración de que la información en su notificación escrita es precisa; y",
+            "authorized_statement": "una declaración, bajo pena de perjurio, de que está autorizado a actuar en nombre del propietario de los derechos de autor.",
+            "designated_agent": "Nuestro agente designado para recibir avisos de DMCA es:",
+            "law_society": "Reuben Clark Law Society",
+            "address": "correo",
+            "note": "*NOTA: Esta información de contacto es solo para consultas sobre posibles infracciones de derechos de autor.",
+            "fail": "Si no cumple con todos los requisitos de la Sección 512 (c) (3) de la DMCA, su aviso de DMCA puede no ser efectivo. Tenga en cuenta que si, a sabiendas, tergiversa materialmente que el Contenido del sitio web infringe sus derechos de autor, puede ser considerado responsable de los daños (incluidos los costos y honorarios de abogados) según la Sección 512 (f) de la DMCA."
         },
         "privacy_policy_inc": {
-            "title": "Privacy Policy Incorporated",
-            "body": ""
+            "title": "Política de Privacidad Incorporada",
+            "body": "Toda la información personal recopilada por JRCLS a través del sitio web se regirá por nuestra política de privacidad."
         },
         "indemnity": {
-            "title": "",
-            "body": ""
+            "title": "Indemnidad",
+            "body": "Usted acepta indemnizarnos y defendernos a nosotros, nuestros afiliados, funcionarios, directores, empleados, consultores, agentes y representantes de todos y cada uno de los reclamos, pérdidas, responsabilidades, daños y costos de terceros (incluidos los honorarios y costos razonables de abogados) que surjan de (1) su violación de estos términos; (2) su infracción, o la infracción por cualquier otro usuario de su cuenta, de cualquier derecho de cualquier persona o entidad; o (3) su uso del sitio web o cualquier contenido. Su indemnización, defensa y obligaciones inofensivas sobrevivirán a la terminación de su uso del sitio web y / o estos términos."
         },
         "external_links": {
-            "title": "",
-            "body": ""
+            "title": "Enlaces Externos y Materiales de Terceros",
+            "body": "Los Servicios pueden mostrar, incluir o poner a disposición materiales de terceros (incluidos datos, información, aplicaciones y otros productos, servicios y / o materiales) o proporcionar enlaces a sitios web o servicios de terceros (colectivamente, \"Materiales de terceros\") . Usted reconoce y acepta que no somos responsables de ningún material de terceros, incluida su precisión, integridad, oportunidad, validez, legalidad, decencia, calidad o cualquier otro aspecto de los mismos. No asumimos y no tendremos ninguna responsabilidad hacia usted o cualquier otra persona o entidad por los Materiales de terceros. Los Materiales de terceros y los enlaces a los mismos se proporcionan únicamente para su conveniencia, y usted accede y los utiliza bajo su propio riesgo y sujeto a los términos y condiciones de dichos terceros."
         },
         "third_party": {
-            "title": "",
-            "body": ""
+            "title": "Beneficiarios Terceros",
+            "body": "Nuestros proveedores de servicios son terceros beneficiarios de estos términos y pueden (sujeto a nuestros acuerdos con ellos) hacer cumplir nuestros derechos con respecto a cualquier infracción por su parte sin unirse a nosotros en ninguna demanda."
         },
         "assignments": {
-            "title": "",
-            "body": ""
+            "title": "Asignaciones",
+            "body": "Podemos asignar este acuerdo, sus deberes o sus beneficios en cualquier momento sin previo aviso. No puede asignar este contrato, sus deberes o sus beneficios a nadie más."
         },
         "website_changes": {
-            "title": "",
-            "body": ""
+            "title": "Cambios al Sitio Web",
+            "body": "Nos reservamos el derecho de realizar cambios, suspender o descontinuar (temporal o permanentemente) el sitio web o cualquier parte del mismo (incluido cualquier contenido) en cualquier momento. Usted acepta que no seremos responsables ante usted ni ante ningún tercero por dicho cambio, suspensión o interrupción."
         },
         "disclaimers": {
-            "title": "",
-            "body": "",
-            "disclaimer": ""
+            "title": "Renuncias de Garantía",
+            "body": "Usted usa el sitio web bajo su propio riesgo. Proporcionamos el sitio web \"tal cual\" y \"según esté disponible\". Cualquier información obtenida a través del sitio web se realiza bajo su riesgo.",
+            "disclaimer": "NEGAMOS TODAS LAS GARANTÍAS, EXPRESAS O IMPLÍCITAS, INCLUIDAS SIN LIMITACIÓN, COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO EN PARTICULAR Y NO INFRACCIÓN. NO GARANTIZAMOS QUE NUESTROS SERVICIOS O SITIO WEB CUMPLIRÁN SUS EXPECTATIVAS O REQUISITOS, O SERÁN ININTERRUMPIDOS, OPORTUNAMENTE, SEGUROS, EXACTOS, ACTUALES, COMPLETOS, SIN ERRORES O SIN VIRUS. TAMBIÉN NO GARANTIZAMOS QUE CORREGIREMOS CUALQUIER DEFECTO."
         },
         "limited_liability": {
-            "title": "",
-            "body": "",
-            "exclusions": ""
+            "title": "Limitación de Responsabilidad",
+            "body": "EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, EN NINGÚN CASO NOSOTROS O NUESTROS OFICIALES, DIRECTORES, EMPLEADOS, AGENTES, LICENCIADORES O PROVEEDORES DE SERVICIOS SERÁN RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, CONSECUENTE, ESPECIAL, PUNITIVO O EJEMPLAR DERIVADO DE RELACIONADO CON SU USO O INHABILIDAD DE UTILIZAR LOS SERVICIOS O EL CONTENIDO, INCLUYENDO, PERO SIN LIMITARSE A, PÉRDIDA DE INGRESOS, PÉRDIDA DE GANANCIAS, PÉRDIDA DE NEGOCIO, PÉRDIDA DE USO O PÉRDIDA DE DATOS, INCLUSO POR TORTURA (INCLUYENDO NEGLIGENCIA ), INCUMPLIMIENTO DEL CONTRATO, O DE OTRA MANERA, INCLUSO SI ES PREVISIBLE. LAS LIMITACIONES ANTERIORES SE APLICARÁN INCLUSO SI SUS RECURSOS BAJO ESTOS TÉRMINOS DE USO NO CUMPLEN CON SU PROPÓSITO ESENCIAL. EL USO DEL SITIO WEB Y NUESTROS SERVICIOS ES BAJO SU PROPIO RIESGO.",
+            "exclusions": "Algunas jurisdicciones no permiten la exclusión o limitación de ciertas garantías o daños consecuentes, por lo que algunas de las exclusiones y / o limitaciones en esta Sección 15 pueden no aplicarse en su caso."
         },
         "governing_law": {
-            "title": "",
-            "body": ""
+            "title": "La Ley Que Rige",
+            "body": "Estos términos se rigen por las leyes del Estado de Utah, distintas de las leyes y la jurisprudencia que darían lugar a la aplicación de las leyes de una jurisdicción que no sea el Estado de Utah."
         },
         "updates": {
-            "title": "",
-            "body": ""
+            "title": "Actualizaciones a estos Términos",
+            "body": "Usted tiene la responsabilidad de revisar estos términos periódicamente. Podemos revisar estos términos en cualquier momento. Si hacemos un cambio a estos términos que, a nuestro exclusivo criterio, es material, actualizaremos esta página web y podremos enviar un correo electrónico a la dirección asociada con su cuenta. Al continuar visitando el sitio web después de que esos cambios entren en vigencia, usted acepta estar sujeto a esos cambios independientemente de si hemos emitido una notificación por correo electrónico. La fecha de la última actualización de estos términos se establece en la parte superior de esta página web."
         },
         "california": {
-            "title": "",
-            "body": ""
+            "title": "Residentes de California",
+            "body": "Si es residente de California, de acuerdo con Cal. Civ. Código §1789.3, puede reportar quejas a la Unidad de Asistencia de Quejas de la División de Servicios al Consumidor del Departamento de Asuntos del Consumidor de California comunicándose con ellas por escrito al 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, o por teléfono al (800) 952-5210."
         },
         "miscellaneous": {
-            "title": "",
-            "waiver": "",
-            "severability": "",
-            "agreement": "",
-            "communications": "",
-            "effective_date": ""
+            "title": "Miscelaneo",
+            "waiver": "Renuncia: Podemos renunciar (o perdonar la responsabilidad) de cualquier incumplimiento (o incumplimiento) por su parte de cumplir con cualquiera de estos términos. Sin embargo, ninguna renuncia es válida a menos que esté firmada y por escrito. Además, las exenciones se aplican solo a fallas identificadas específicamente y no le otorgan permiso para incumplir los términos en otros momentos.",
+            "severability": "Divisibilidad: Si un tribunal de jurisdicción competente considera que alguna disposición de estos términos es inválida, ilegal o inaplicable por cualquier motivo, dicha disposición se eliminará o limitará en la medida mínima posible, y las disposiciones restantes de estos términos continuarán en total fuerza y ​​efecto.",
+            "agreement": "Acuerdo Completo: estos términos, junto con nuestra política de privacidad, constituyen el acuerdo único y completo entre usted y nosotros con respecto al tema del presente, y reemplazan y reemplazan todos los acuerdos o acuerdos previos o contemporáneos, escritos u orales, con respecto a dicho tema.",
+            "communications": "Comunicaciones electrónicas: las comunicaciones entre usted y nosotros a través del sitio web utilizan medios electrónicos. Para fines contractuales, usted acepta recibir comunicaciones de nosotros en forma electrónica, y acepta que todos los términos y condiciones, acuerdos, avisos, divulgaciones y otras comunicaciones que le proporcionamos electrónicamente satisfacen cualquier requisito legal de que dichas comunicaciones sean por escrito.",
+            "effective_date": "Fecha de Vigencia: 20 de Febrero de 2019"
         }
     }
 }

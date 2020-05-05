@@ -311,31 +311,31 @@
         "body": "404 A página solicitada não pôde ser encontrada."
     },
     "awards": {
-        "title": "",
-        "individual_awards": "",
-        "clifford_award": "",
-        "exemplary_leadership": "",
-        "franklin_award": "",
-        "thomas_award": "",
-        "women_award": "",
-        "chapter_awards": "",
-        "developing_award": "",
-        "outstanding_award": "",
-        "quality_award": ""
+        "title": "Reconhecimentos",
+        "individual_awards": "Reconhecimentos Individuais",
+        "clifford_award": "Prêmio Clifford Wallace",
+        "exemplary_leadership": "Liderança Exemplar",
+        "franklin_award": "Prêmio Franklin S. Richards de Serviço ao Público",
+        "thomas_award": "Prêmio Thomas Kane",
+        "women_award": "Prêmio Mulheres no Direito",
+        "chapter_awards": "Reconhecimentos do Capítulo",
+        "developing_award": "Prêmio de Capítulo em Desenvolvimento",
+        "outstanding_award": "Prêmio de Capítulo Excepcional",
+        "quality_award": "Prêmio de Capítulo de Qualidade"
     },
     "franklin_award_page": {
-        "p1": "Franklin Snyder Richards, the award’s namesake, was the very first general counsel for the Church of Jesus Christ of Latter-Day Saints. Appointed in January 1890, he continued in that assignment until his death on September 4, 1934. A key defender of the Church and its leaders during the tumultuous period of the late 19th century, Franklin Richards was also a legislator, one of the main advocates for women’s suffrage and a member of the 1895 Utah State Constitutional Convention. His courageous efforts to defend and promote the rights of unpopular, disenfranchised and persecuted minorities opened the door to growth and opportunity for countless numbers of men and women.",
-        "p2": "Chapter leaders and Law Society members are invited to nominate potential award recipients. A nomination form may be downloaded for mailing here.",
-        "p3": "Information about past recipients of the Franklin S. Richards Public Service Award can be accessed here."
+        "p1": "Franklin Snyder Richards, que dá nome ao prêmio, foi o primeiro conselheiro geral para A Igreja de Jesus Cristo dos Santos dos Últimos Dias. Nomeado em janeiro de 1890, ele continuou nesta posição até sua morte, em 4 de setembro de 1934. Um defensor ferrenho da Igreja e de seus líderes durante os tumultuosos anos finais do século XIX, Franklin Richards também era um legislador, um dos principais defensores do voto feminino e um membro da Convenção Constitucional Estadual de 1895 em Utah. Seus esforços corajosos em defender e promover os direitos das minorias impopulares, perseguidas e desprovidas de direitos, abriram as portas para o crescimento e oportunidades de numerosos homens e mulheres.",
+        "p2": "Os líderes de capítulos e membros da Sociedade são convidados a nomear potenciais homenageados. Um formulário de nomeação pode ser baixado aqui para envio.",
+        "p3": "Informações sobre pessoas homenageadas com o Prêmio Franklin S. Richards de Serviço ao Público podem ser acessadas aqui."
     },
     "tools_training": {
         "governance": {
-            "title": "",
-            "bylaws": "",
-            "last_amended": "",
-            "handbook": "",
-            "chapter_leadership_manual": "",
-            "body": "Prepared by the Leadership Development Team to help new leaders navigate the ins and outs of establishing and operating a successful chapter. The manual provides guidelines on many facets of Law Society leadership, including (but not limited to) building a membership base, organizing a Board of Directors, planning activities that serve others and promote religious liberty, and setting goals to achieve Quality, Outstanding, or Developing Chapter Awards.",
+            "title": "Governança",
+            "bylaws": "Estatutos",
+            "last_amended": "última modificação em 19 de julho de 2012",
+            "handbook": "Manual",
+            "chapter_leadership_manual": "Manual de Liderança do Capítulo",
+            "body": "",
             "spanish": "Español",
             "french": "Français",
             "portugues": "Português",
@@ -436,13 +436,13 @@
         "speakers_request": ""
     },
     "about_page": {
-        "title": "About",
+        "title": "",
         "body1": "",
         "body2": "",
         "value_proposition": {
             "title": "",
             "body": "",
-            "mission_statement": "",
+            "mission_statement": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundados no Estado de Direito.",
             "body2": ""
         },
         "additional_detail": {
@@ -459,7 +459,7 @@
     "letter_from_the_chair": {
         "title": "",
         "welcome": "",
-        "mission": "",
+        "mission": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundados no Estado de Direito.",
         "ways_we_fulfill": {
             "title": "",
             "p1": "",
@@ -468,7 +468,7 @@
             "p4": ""
         },
         "conclusion": "",
-        "signature": "",
+        "signature": "Joshua Randall",
         "international_chair": ""
     },
     "j_reuben_clark": {
@@ -486,7 +486,7 @@
     },
     "faq": {
         "title": "",
-        "q1": "",
+        "q1": "Tenho que ser um membro d'A Igreja de Jesus Cristo dos Santos dos Últimos Dias ou ser um aluno ou ex-aluno da BYU Law para me tornar membro da sociedade?",
         "a1": "",
         "q2": "",
         "a2": "",
@@ -513,9 +513,9 @@
         "q11": "",
         "a11": "",
         "q12": "",
-        "a12": ""
+        "a12": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu"
     },
-    "contact": "",
+    "contact": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu",
     "privacy_policy": {
         "title": "",
         "last_revised": "",
@@ -525,7 +525,7 @@
         },
         "our_mission": {
             "title": "",
-            "body": ""
+            "body": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundada no Estado de Direito."
         },
         "candor_commitment": {
             "title": "",
@@ -613,7 +613,7 @@
         },
         "our_mission": {
             "title": "",
-            "body": ""
+            "body": "Afirmamos a força trazida pelo Direito por um advogado com convicção religiosa pessoal. Nós nos esforçamos em prestar serviços voluntários (Pro Bono) e com excelência profissional para promover a justiça e a virtude fundada no Estado de Direito."
         },
         "binding_agreement": {
             "title": "",
