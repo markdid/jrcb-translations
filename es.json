@@ -308,342 +308,343 @@
         }
     },
     "404_page": {
-        "body": ""
+        "body": "404 La página solicitada no se pudo encontrar."
     },
     "awards": {
-        "title": "",
-        "individual_awards": "",
-        "clifford_award": "",
-        "exemplary_leadership": "",
-        "franklin_award": "",
-        "thomas_award": "",
-        "women_award": "",
-        "chapter_awards": "",
-        "developing_award": "",
-        "outstanding_award": "",
-        "quality_award": ""
+        "title": "Reconocimientos",
+        "individual_awards": "Reconocimientos Individuales",
+        "clifford_award": "Reconocimiento de Clifford Wallace",
+        "exemplary_leadership": "Liderazgo Ejemplar",
+        "franklin_award": "Reconocimiento al Servicio Público Franklin S. Richards",
+        "thomas_award": "Reconocimiento de Thomas Kane",
+        "women_award": "Reconocimiento de las Mujeres en la Ley",
+        "chapter_awards": "Reconocimientos de Capítulo",
+        "developing_award": "Reconocimiento de Capítulo en Desarrollo",
+        "outstanding_award": "Reconocimiento de Capítulo Sobresaliente",
+        "quality_award": "Reconocimiento de Capítulo de Calidad"
     },
     "franklin_award_page": {
-        "p1": "Franklin Snyder Richards, the award’s namesake, was the very first general counsel for the Church of Jesus Christ of Latter-Day Saints. Appointed in January 1890, he continued in that assignment until his death on September 4, 1934. A key defender of the Church and its leaders during the tumultuous period of the late 19th century, Franklin Richards was also a legislator, one of the main advocates for women’s suffrage and a member of the 1895 Utah State Constitutional Convention. His courageous efforts to defend and promote the rights of unpopular, disenfranchised and persecuted minorities opened the door to growth and opportunity for countless numbers of men and women.",
-        "p2": "Chapter leaders and Law Society members are invited to nominate potential award recipients. A nomination form may be downloaded for mailing here.",
-        "p3": "Information about past recipients of the Franklin S. Richards Public Service Award can be accessed here."
+        "p1": " Franklin Snyder Richards, el homónimo del reconoimiento, fue el primer consejero general de la Iglesia de Jesucristo de los Santos de los Últimos Días. Nombrado en enero de 1890, continuó en esa tarea hasta su muerte el 4 de septiembre de 1934. Un defensor clave de la Iglesia y sus líderes durante el tumultuoso período de finales del siglo XIX, Franklin Richards también fue legislador, uno de los principales defensores para el sufragio femenino y miembro de la Convención Constitucional del Estado de Utah de 1895. Sus valientes esfuerzos para defender y promover los derechos de las minorías impopulares, privadas de derechos y perseguidos abrieron la puerta al crecimiento y la oportunidad para innumerables hombres y mujeres.",
+        "p2": "Los líderes del Capítulo y los miembros de la Sociedad Legal son invitados a nominar posibles ganadores de reconocimiento. Se puede descargar un formulario de nominación para enviarlo por correo aquí.",
+        "p3": "Se puede acceder a información sobre los destinatarios anteriores del Reconocimiento al Servicio Público Franklin S. Richards aquí."
     },
     "tools_training": {
         "governance": {
-            "title": "",
-            "bylaws": "",
-            "last_amended": "",
-            "handbook": "",
-            "chapter_leadership_manual": "",
-            "body": "Prepared by the Leadership Development Team to help new leaders navigate the ins and outs of establishing and operating a successful chapter. The manual provides guidelines on many facets of Law Society leadership, including (but not limited to) building a membership base, organizing a Board of Directors, planning activities that serve others and promote religious liberty, and setting goals to achieve Quality, Outstanding, or Developing Chapter Awards.",
+            "title": "Gobernancia",
+            "bylaws": "Estatutos",
+            "last_amended": "Última modificación 19 de Julio, 2012",
+            "handbook": "Manual ",
+            "chapter_leadership_manual": "Manual de Liderazgo del Capítulo",
+            "body": "Preparado por el Equipo de Desarrollo de Liderazgo para ayudar a nuevos líderes a navegar los entresijos de establecer y operar un capítulo exitoso. El manual proporciona pautas en muchas facetas del liderazgo de la Sociedad Legal, incluyendo (pero no limitado a) construir una base de miembros, organizar una Junta de Directores, planificar actividades que sirvan a otros y promuevan la libertad religiosa, y establecer metas para lograr obtener reconocimientos de capítulos de Calidad, Sobresalientes o Desarrollando.",
             "spanish": "Español",
             "french": "Français",
             "portugues": "Português",
             "russian": "Pусский"
         },
         "forms": {
-            "title": "",
-            "chapter_relations": "",
-            "quality_award": "",
-            "outstanding_award": "",
-            "developing_award": "",
-            "chapter_nomination": "",
-            "banking_info": "",
-            "chapter_report": "",
-            "finance": "",
-            "annual_disbursements": "",
-            "annual_reconciliation": "",
-            "constituent_information": "",
-            "sample_letter": "",
-            "expense_form": "",
-            "international_application": "",
-            "leadership_travel_application": "",
-            "student_application": "",
-            "media": "",
-            "annual_report": "",
-            "jrcls_brochure": "",
-            "publicity_request": "",
-            "story_submission": "",
-            "speakers": "",
-            "speakers_request": ""
+            "title": "Formas",
+            "chapter_relations": "Relaciones Capitulares",
+            "quality_award": "Reconocimiento de Capítulo de Calidad",
+            "outstanding_award": "Reconocimiento de Capítulo Sobresaliente",
+            "developing_award": "Reconocimiento de Capítulo en Desarrollo",
+            "chapter_nomination": "Nominación de Liderazgo del Capítulo",
+            "banking_info": "Información bancaria para en línea",
+            "chapter_report": "Historia Annual e Informe del Capítulo",
+            "finance": "Finanzas",
+            "annual_disbursements": "Reporte Anual de Recibos de Efectivo Remoto y Desembolsos",
+            "annual_reconciliation": "Conciliación Bancaria Anual",
+            "constituent_information": "Información de la Cuenta Bancaria de la Sociedad Constituyente",
+            "sample_letter": "Carta de Muestra para Abrir una Cuenta Bancaria Local",
+            "expense_form": "Formulario de Reembolso de Gastos",
+            "international_application": "Solicitud de Gastos de Viaje para Lideres de Capítulos Internacionales",
+            "leadership_travel_application": "Solicitud de Gastos de Viaje para Lideres de Capítulos de los Estados Unidos",
+            "student_application": "Solicitud de Viaje de Liderazgo Estudiantil",
+            "media": "Medios de Comunicación",
+            "annual_report": "Historia y Reporte Anual (.doc)",
+            "jrcls_brochure": "Folleto JRCLS",
+            "publicity_request": "Solicitud de Publicidad",
+            "story_submission": "Propuesta de Historias",
+            "speakers": "Oradores(as)",
+            "speakers_request": "Solicitud de Aprobación de Reconocimiento & Oradores(as)"
         },
         "leadership_training": {
-            "title": "",
-            "body": ""
+            "title": "Desarrollo de Liderazgo & Entrenamiento",
+            "body": "El Equipo de Desarrollo de Liderazgo (LDT) está comprometido a aprovechar la experiencia y la capacidad de los líderes de la Sociedad Legal de todo el mundo para ayudarnos a crecer y servir mejor a nuestras comunidades. Si desea que el LDT brinde capacitación a los líderes de su capítulo, o si está dispuesto a compartir sus propias experiencias e ideas con otros capítulos, complete esta breve encuesta."
         },
         "leadership_modules": {
-            "title": "",
-            "body": "",
-            "chapter_development": "",
-            "religious_freedom": "",
-            "service_outreach": "",
-            "build_WIL": "",
-            "young_lawyers": "",
-            "latin_america": "",
-            "why_i_love": ""
+            "title": "Módulos de Orientación de Liderazgo ",
+            "body": "Para ayudar a los líderes de los capítulos a tener éxito en sus nuevos roles, la LDT ha preparado los siguientes módulos que invitamos a cada nuevo líder a completar. A partir de 2019, una revisión de una hora de estos materiales por parte del liderazgo del capítulo se convirtió en un requisito para recibir el Reconocimiento de Capítulo de Calidad o Sobresaliente.",
+            "chapter_development": "Creación y Desarrollo de Capítulos",
+            "religious_freedom": "Libertad Religiosa ",
+            "service_outreach": "Servicio y Alcance Comunitario",
+            "build_WIL": "Cómo crear Mujeres en la Ley en tu Capítulo",
+            "young_lawyers": "Abogados Jóvenes & Estudiantes",
+            "latin_america": "Conctacto con LatinoAmerica",
+            "why_i_love": "Por Qué Me Encanta la Conferencia Anual de Liderazgo"
         },
         "video": {
-            "title": "",
-            "how_to_tell_a_story": "",
-            "leadership_training": "",
-            "principles_leadership": "",
-            "structures_resources": "",
-            "women_in_law": "",
-            "website_training": ""
+            "title": "Video",
+            "how_to_tell_a_story": "Cómo Contar Una Historia",
+            "leadership_training": "Entranamiento del Manual de Liderazgo",
+            "principles_leadership": "Principios de Liderazgo Efectivo",
+            "structures_resources": "Estructura y Recursos",
+            "women_in_law": "Cómo Mujeres en la Ley fortalece a la Sociedad Legal",
+            "website_training": "Capacitación del Sitio Web del chair del Capítulo y del Comité"
         }
     },
     "firesides": {
-        "title": "Firesides",
-        "upcoming_firesides": "",
-        "past_firesides": "",
-        "watch": "",
-        "read": "",
-        "heroes_of_unity": "",
-        "religious_freedom": "",
-        "marriage_family": "",
-        "instruments": "",
-        "saint_lawters": "",
-        "ethical_lawyers": "",
-        "family_lawyers": "",
-        "atticus_finch": "",
-        "beginning_end": "",
-        "giants": "",
-        "healers": ""
+        "title": "Charlas Fogoneras",
+        "upcoming_firesides": "Próxima Charla Fogonera",
+        "past_firesides": "Charlas Fogoneras Pasadas",
+        "watch": "Ver",
+        "read": "Leer",
+        "heroes_of_unity": "\"Héroes de Unidad\" por el juez Thomas B. Griffith",
+        "religious_freedom": "\"El Estado de la Libertad Religiosa en el Mundo\" por Dra. Katrina Lantos Swett",
+        "marriage_family": "\"Matrimonio, Derecho Familiar y el Templo\" por el Elder Bruce C. Hafen",
+        "instruments": "\"Instrumentos en Sus manos: Haciendo esta Obra Grande y Maravillosa\" por el Elder Larry Echo Hawk",
+        "saint_lawters": "\"Abogados de los Santos de los Últimos Días y la Plaza Pública\" por el Elder Quentin L. Cook",
+        "ethical_lawyers": "\"Sobre Ser Abogados Éticos\" por Sandra Day O'Connor",
+        "family_lawyers": "“Equilibrando Familia, Iglesia y Profesión” por el Elder Keith K. Hilbig, el Elder Marcus B. Nash, el Elder Steven E. Snow",
+        "atticus_finch": "\"En Busca de Atticus Finch\" por el Elder Lance B. Wickman",
+        "beginning_end": "\"El Principio y el Fin de un Abogado\" por el Elder Dallin H. Oaks",
+        "giants": "\"Sobre los Hombros de Gigantes\" por el Presidente Boyd K. Packer",
+        "healers": "\"Sé Sanadores\" por el Presidente James E. Faust"
     },
     "forms": {
-        "title": "",
-        "chapter_relations": "",
-        "quality_award": "",
-        "outstanding_award": "",
-        "developing_award": "",
-        "chapter_nomination": "",
-        "banking_info": "",
-        "chapter_report": "",
-        "finance": "",
-        "annual_disbursements": "",
-        "constituent_information": "",
-        "sample_letter": "",
-        "expense_form": "",
-        "international_application": "",
-        "leadership_travel_application": "",
-        "student_application": "",
-        "media": "",
-        "annual_report": "",
-        "jrcls_brochure": "",
-        "publicity_request": "",
-        "story_submission": "",
-        "speakers": "",
-        "speakers_request": ""
+        "title": "Formas",
+        "chapter_relations": "Relaciones Capitulares",
+        "quality_award": "Reconocimiento de Capítulo de Calidad del Abogado(a)",
+        "outstanding_award": "Reconocimiento de Capítulo Sobresaliente del Abogado(a)",
+        "developing_award": "Reconocimiento de Capítulo en Desarrollo del Abogado(a)",
+        "chapter_nomination": "Nominación de Liderazgo del Capítulo",
+        "banking_info": "Información bancaria para en línea",
+        "chapter_report": "Historia Annual e Informe del Capítulo",
+        "finance": "Finanzas",
+        "annual_disbursements": "Reporte Anual de Recibos de Efectivo Remoto y Desembolsos",
+        "annual_reconciliation": "Conciliación Bancaria Anual",
+        "constituent_information": "Información de la Cuenta Bancaria de la Sociedad Constituyente",
+        "sample_letter": "Carta de Muestra para Abrir una Cuenta Bancaria Local",
+        "expense_form": "Formulario de Reembolso de Gastos",
+        "international_application": "Solicitud de Gastos de Viaje para Lideres de Capítulos Internacionales",
+        "leadership_travel_application": "Solicitud de Gastos de Viaje para Lideres de Capítulos de los Estados Unidos",
+        "student_application": "Solicitud de Viaje de Liderazgo Estudiantil",
+        "media": "Medios de Comunicación",
+        "annual_report": "Historia y Reporte Anual (.doc)",
+        "jrcls_brochure": "Folleto JRCLS",
+        "publicity_request": "Solicitud de Publicidad",
+        "story_submission": "Propuesta de Historias",
+        "speakers": "Oradores(as)",
+        "speakers_request": "Solicitud de Aprobación de Reconocimiento & Oradores(as)"
     },
     "about_page": {
-        "title": "About",
-        "body1": "",
-        "body2": "",
+        "title": "Acerca de",
+        "body1": "La Sociedad Legal J. Reuben Clark consiste de miles the abogados y otros graduados de las facultad de derecho de todo el mundo. Nuestra membresía incluye líderes y aspirantes a líderes que persiguen una miríada de profesiones, desde política hasta derecho, academia, gobierno corporativo y más.",
+        "body2": "La Sociedad Legal se estableció en 1988. En celebración de su aniversarion numbero 30, el siguiente video destacado fue compartido en la Conferencia de Liderazgo 2018.",
         "value_proposition": {
-            "title": "",
-            "body": "",
-            "mission_statement": "",
-            "body2": ""
+            "title": "Propuesta de Valores",
+            "body": "La declaración de la misión de la Sociedad Legal J. Reuben Clark es exhaustiva y clara:",
+            "mission_statement": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
+            "body2": "Aunque muchas organizaciones profesionales legales promueven la educación legal y la colegialidad, muy pocas tienen la base única de convicción religiosa: la convicción de que tenemos la responsabilidad dada por Dios de promover el estado de derecho y usar nuestras habilidades legales para servir a nuestros hermanos y hermanas. La Sociedad Legal brinda a sus miembros oportunidades únicas para aprender y servir a través de su as asociación con otras personas motivadas por esta convicción. La membresía de la Sociedad Legal se extiende a todos los profesionales y estudiantes del derecho de todo el mundo que apoyen a esta misión, independientemente de dónde asistieron a la escuela de derecho e independientemente de sus afiliaciones religiosas o políticas."
         },
         "additional_detail": {
-            "title": "",
-            "p1": "",
-            "p2": "",
-            "p3": ""
+            "title": "Detalles Adicionales",
+            "p1": "Debido a que la fuerza se obtiene a través de un esfuerzo concertado y redes de apoyo, la Sociedad Legal organiza eventos centrados en capítulos locales, reuniones regionales y eventos de toda la sociedad: principalmente la Charla Fogonera y Conferencia Anual. Estos eventos fomentan el desarrollo de fuertes relaciones profesionales y amistades. Aprender de las experiencas de cada uno, identificar colegas con habilidades profesionales complementarias y encontrar mentores sabios, todos basados en una base compartida de convicción moral, son solo algunos de los beneficios informales que brinda la Sociedad Legal.",
+            "p2": "A menudo se brinda educación legal continua (CLE) en estos eventos y se ofrecen más de 30 horas de educación legal continua cada año junto con la semana de educación de BYU (BYU Education Week) bajo la dirección de la Sociedad Legal. Estas ofertas educativas ayudan a promover la excelencia profesional que es un aspecto clave de la misión de la Sociedad Legal. La Sociedad Legal se enfoca en proporcionar educación que no solo perfeccione las habilidades legales, sino que destaque de manera única las formas en que las convicciones religiosas deben influir en nuestras prácticas profesionales.",
+            "p3": "El servicio público se promueve principalmente y se brinda a nivel del capítulo local. Ayudar a otros con sus necesidades legales es fundamental para cumplir la misión de la Sociedad Legal. La Sociedad Legal alienta el servicio público al destacar las muchas formas en que los capítulos locales y los miembros individuales brindan servicio, con suerte, generando ideas e identificando posibilidades para otros. Además, la Sociedad Legal actualmente brinda oportunidades de servicio en el ámbito de la justicia penal a través de nuestra amplia colaboración con la NAACP. La Sociedad Legal promueve el servicio público en todas sus facetas, pero debido al papel clave que desempeñan las convicciones religiosas en nuestra misión, la libertad religiosa es un ámbito en el que se encuentran expertos especiales."
         },
         "relationship": {
-            "title": "",
-            "body": ""
+            "title": "Relación con el Capítulo de BYU Law Alumni ",
+            "body": "La membresía de la Sociedad Legal se divide de manera bastante equitativa entre los graduados de Derecho de BYU y los graduados de otras escuelas de derecho. Esta amplia membresía es una de las distinciones clave entre el Capítulo BYU Law Alumni y la Sociedad Legal. La Sociedad Legal necesita y valora a sus graduados que no pertenecen a BYU, y sus contribuciones son inmensas. Además, BYU Law reconoce con gratitud que sus estudiantes reciben un gran apoyo, particularmente en la búsqueda de oportunidades de empleo, de graduados que no son de BYU. Por otro lado, la Sociedad Legal no podría funcionar como lo hace actualmente sin el apoyo de BYU y BYU Law. El presidente de BYU, Kevin Worthen, y otros administradores clave de BYU, en particular el decano de BYU Law, Gordon Smith, invierten tiempo y energía para garantizar el éxito de la Sociedad Legal. Los empleados de BYU Law de Relaciones Externas, Marketing y Comunicaciones, TI y Finanzas dedican una cantidad considerable de tiempo a brindar apoyo inicial y detrás de escena a la Sociedad Legal. En consecuencia, si bien es sensible al hecho de que la Sociedad Legal no es simplemente otro nombre para un grupo de ex alumnos de BYU Law, BYU Law recibe un reconocimiento especial, acceso y otros privilegios debido a su patrocinio directo de la Sociedad Legal."
         }
     },
     "letter_from_the_chair": {
-        "title": "",
-        "welcome": "",
-        "mission": "",
+        "title": "Carta del Presidente Internacional ",
+        "welcome": "¡Bienvenido a la página web de la Sociedad Legal J. Reuben Clark! Somos una sociedad de abogados y estudiantes de derecho ques se esfuerzan por utilizar nuestra educación y capacitación legal para marcar una diferencia. Alentamos a nuestros miembros de todo el mundo a servir en sus comunidades en armonía con los más altos ideales profesionales. También tenemos en alta estima nuestra declaración de misión:",
+        "mission": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
         "ways_we_fulfill": {
-            "title": "",
-            "p1": "",
-            "p2": "",
-            "p3": "",
-            "p4": ""
+            "title": "Aquí hay algunas maneras en que nos esforzamos por cumplir nuestra gran misión:",
+            "p1": "Servimos. Nuestros capítulos locales mundiales y comités internacionales organizan regularmente pro bono y otros esfuerzos de servicio. Hay muchas oportunidads para servir dentro de la Sociedad Legal. Comuníquese conmigo o con cualquier otro líder de la Sociedad Legal si está interesado en ayudar en un comité global o con su capítulo local.",
+            "p2": "Valoramos la libertad religiosa. Sabemos que sin libertad religiosa, la pérdida de otras libertades es casi segura. ",
+            "p3": "Inspiramos. A través de publicaciones, hogares y educación continua, modelats e inspiramos excelencia profesional. Hombres y mujeres dedicados son mentores de jóvenes profesionales. Sus ejemplos e ideas los fortalecen y fortalecen a generaciones de liderazgo.",
+            "p4": "Trabajamos juntos. Anhelamos vincular brazos con otras sociedades legales, organizaciones sin fines de lucro y asociaciones de abogados locales para llevar el poder de nuestra capacitación y experiencia legal directamente a quienes más los necesitan. Alentamos a nuestros miembros a unir fuerzas con otras personas y grupos de ideas afines para educar, informar y recordar a los tomadores de decisiones y a otros de causas críticas, como la libertad religiosa. A medida que nos unimos más allá de nuestra propia comunidad, esperamos fomentar nuevas amistades, construir buena voluntad y proporcionar vías para la futura colaboración y cooperación."
         },
-        "conclusion": "",
-        "signature": "",
-        "international_chair": ""
+        "conclusion": "En una nota más personal, he sido bendecido por mi membresía en la Sociedad Legal durante muchos años. He visto excelentes ejemplos en la ley y el liderazgo, he conocido a personas maravillosas que me han influenciado para siempre y se han involucrado más en el servicio público y los esfuerzos de libertad religiosa. Espero que la Sociedad Legal también pueda ser una bendición en tu vida. Únase a nosotros para ayudar a la Sociedad Legal en convertirse en una fuerza aún más poderosa para el bien en el mundo.",
+        "signature": "Joshua Randall",
+        "international_chair": "Presidente Internacional, Sociedad Legal J. Reuben Clark"
     },
     "j_reuben_clark": {
-        "p1": "",
-        "p2": "",
-        "p3": "",
-        "p4": "",
-        "p5": "",
-        "p6": "",
-        "p7": "",
-        "p8": "",
-        "p9": "",
-        "p10": "",
-        "p11": ""
+        "p1": "Joshua Reuben Clark nació el 1 de septiembre de 1871 en el pequeño pueblo agrícola de Grantsville, un asentamiento Mormón a treinta y cinco millas al suroeste de Salt Lake City. Aunque no comenzó su educación formal hasta que tenía diez años, el joven Rubén había sido instruido en su casa por su madre y había desarrollado un amor por el aprendizaje que duró toda su vida.",
+        "p2": "El 14 de septiembre de 1898, J. Reuben Clark se casó con Luacine Annetta Savage en el Templo de Salt Lake, con el Dr. Talmage oficiando en la ceremonia. Durante los siguientes cuatro años, ocupó diversos cargos en todo el estado como maestro y administrador, tanto en la escuela secundaria como en la universidad.",
+        "p3": "En 1903, los Clarks, incluidos dos niños pequeños (dos más los seguirían), se mudaron a la ciudad de Nueva York, donde Reuben ingresó a la facultad de derecho de la Universidad de Columbia. El trabajo de su primer año fue de tan alta calidad que estuvo entre los tres estudiantes de segundo año elegidos para el consejo editorial de Columbia Law Review. Al final de su segundo año fue admitido en el Colegio de Abogados de Nueva York. Recibió un LL.B. grado en 1906.",
+        "p4": "Tres meses después de graduarse de la facultad de derecho, Reuben Clark fue nombrado abogado asistente del Departamento de Estado por Elihu Root, secretario de estado bajo el presidente Theodore Roosevelt. Poco después también fue nombrado profesor asistente de derecho en la Universidad George Washington, donde enseñó hasta 1908.",
+        "p5": "En julio de 1910, bajo la administración del presidente William Howard Taft, el Sr. Clark fue nombrado abogado del Departamento de Estado. Como parte de sus responsabilidades, representó a Estados Unidos en una disputa con Chile. El rey de Inglaterra, en calidad de árbitro, falló a favor de los Estados Unidos y otorgó uno de los mayores premios internacionales hasta ese momento: casi un millón de dólares. También durante su solicitud, Clark publicó su clásico \"Memorándum sobre el derecho a proteger a los ciudadanos en países extranjeros por las fuerzas de desembarco\". El Secretario de Estado Philander C. Knox declaró al Sr. Clark: “Le estoy haciendo justicia pero al decir que por habilidad natural, integridad, lealtad e industria, no he conocido en un servicio público y profesional por mucho tiempo a su superior y rara vez a su igual.\"",
+        "p6": "J. Reuben Clark dejó el Departamento de Estado en 1913 para abrir oficinas de abogados en Washington, D.C., especializándose en derecho municipal e internacional. Sus clientes incluyeron la Embajada de Japón, Philander C. Knox, la Legación cubana, el Ministerio de Guatemala, J.P.Morgan & Company y la Equitable Life Assurance Society.",
+        "p7": "Durante la Primera Guerra Mundial, el Sr. Clark recibió una comisión como comandante en el Cuerpo de Reserva de Oficiales del Juez Abogado General. En esta capacidad, ayudó a preparar las regulaciones originales del Servicio Selectivo. Luego fue asignado en servicio activo a la oficina del fiscal general de los Estados Unidos, donde preparó \"Legislación de emergencia y poderes de guerra del presidente\". En reconocimiento a su meritorio servicio, fue galardonado con la Medalla al Servicio Distinguido.",
+        "p8": "Por el nombramiento del presidente Coolidge, el Sr. Clark se convirtió en subsecretario de Estado en 1928. Durante este servicio, publicó el \"Memorando Clark sobre la Doctrina Monroe\", alabado por los críticos como un \"monumento de erudición\" y un \"tratado magistral\". La publicación semestral de la Law Society toma su nombre de este famoso trabajo.",
+        "p9": "El 3 de octubre de 1930, J. Reuben Clark fue nombrado embajador de los Estados Unidos en México. Después de su renuncia dos años y medio después, el presidente Herbert Hoover elogió los esfuerzos diplomáticos del Sr. Clark, quien dijo: \"Nunca nuestras relaciones se han elevado a un punto tan alto de confianza y cooperación.\"",
+        "p10": "En 1933, a los sesenta y dos años, la devoción de toda la vida del Sr. Clark a la Iglesia culminó con un nuevo llamado: consejero del presidente Heber J. Grant de La Iglesia de Jesucristo de los Santos de los Últimos Días. Como miembro de la Primera Presidencia, el presidente Clark fue uno de los principales partidarios del plan de bienestar de la Iglesia. También ayudó a poner las finanzas de la Iglesia en un plan presupuestario. Fue un líder inspirador y habló con fuerza sobre temas como la libertad, su corte, las Constituciones inspiradas, el trabajo, la integridad y la castidad. Ávido estudiante de la vida y las enseñanzas del Señor Jesucristo, fue autor de muchos libros académicos sobre temas del Evangelio.",
+        "p11": "Además de sus deberes en la Iglesia, J. Reuben Clark continuó compartiendo su experiencia profesional como miembro de juntas corporativas; comités gubernamentales, políticos y privados; y revistas académicas y juntas educativas. También compró y mantuvo una granja en Grantsville, su hogar de la infancia."
     },
     "faq": {
-        "title": "",
-        "q1": "",
-        "a1": "",
-        "q2": "",
-        "a2": "",
-        "q3": "",
-        "a3": "",
-        "q4": "",
-        "a4": "",
+        "title": "Preguntas Frecuentes",
+        "q1": "¿Tengo que ser miembro de La Iglesia de Jesucristo de los Santos de los Últimos Días o ser alumno o graduado de BYU Law para ser miembro de la Sociedad Legal?",
+        "a1": "No. La Sociedad Legal invita a cualquier estudiante o graduado de cualquier escuela de derecho o religión que apoye la declaración de la misión.",
+        "q2": "¿Cuál is la differencia entre el BYU Law Alumni Chapter y la Sociedad Legal J. Reuben Clark?",
+        "a2": "El BYU Law Alumni Chapter es un capítulo profesional dentro el BYU Alumni Association. La Sociedad Legal J. Reuben Clark (JRCLS) es una sociedad internacional basada en capítulos locales de abogados y estudiantes basados en la fe.",
+        "q3": "¿Cuál es la relación entre BYU Law y la Sociedad Legal J. Reuben Clark?",
+        "a3": "La Sociedad Legal cuenta con el apoyo financiero de BYU Law y La Iglesia de Jesucristo de los Santos de los Últimos Días. Opera bajo el 501 (c)(3) establecido y mantenido por BYU. BYU Law presta muchos de sus recursos y personal para apoyar las operaciones de la Sociedad Legal. Algunos empleados y ex alumnos de BYU Law sirven en el liderazgo de la Sociedad Legal. Muchos miembros de la Sociedad Legal son ex alumnos de BYU Law.",
+        "q4": "¿Cuál es el propósito de la Sociedad Legal J. Reuben Clark?",
+        "a4": "Afirmar que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley.",
         "q5": {
-            "q": "",
-            "a1": "",
-            "a2": "",
-            "a3": ""
+            "q": "¿Cuáles son los beneficios para mí como miembro de la Sociedad Legal?",
+            "a1": "Membresía en la Sociedad Legal J. Reuben Clark le brindará oportunidades únicas para aprender y servir a través de su asociación con otras personas motivadas por su convicción religiosa de promover el estado de derecho y usar sus habilidades legales para servir a los demás.",
+            "a2": "Los privilegios de la membresía general en la Sociedad Legal incluyen asociación profesional y tutoría, oportunidades de liderazgo, acceso a nuestra base de datos en línea, e invitaciones a eventos educativos que incluyen almuerzos, cenas, charlas fogoneras, simposios, presentaciones de educación legal continua, seminarios web y conferencias. Los beneficios adicionales de una membresía incluyen asistencia laboral y trabajo en red.",
+            "a3": "La Sociedad Legal celebra muchos eventos a nivel local e internacional. Estos eventos a menudo incluyen educación legal continua; además, se ofrecen más de 30 horas de educación legal continua cada año junto con la Semana de Educación de BYU (BYU Education Week)."
         },
-        "q6": "",
-        "a6": "",
-        "q7": "",
-        "a7": "",
-        "q8": "",
-        "a8": "",
-        "q9": "",
-        "a9": "",
-        "q10": "",
-        "a10": "",
-        "q11": "",
-        "a11": "",
-        "q12": "",
-        "a12": ""
+        "q6": "¿Cuál es el costo de la membresía?",
+        "a6": "La membresía está abierta a estudiantes y graduados de cualquier escuela de derecho y requiere una elección afirmativa. La membresía básica es gratuita. A partir del otoño de 2020, las cuotas de membresía escalonadas se asociarán con ciertos beneficios. Las cuotas adicionales están determinadas por los capítulos locales.",
+        "q7": "¿Qué eventos organiza la Sociedad Legal J. Reuben Clark?",
+        "a7": "La mayoría de los eventos se llevan a cabo a nivel local, y la naturaleza de estos está determinada por los capítulos locales. El JRCLS alberga tres eventos internacionales anuales: la Conferencia de Liderazgo en Aspen Grove, la Charla Fogonera anual, que se transmite desde Salt Lake City, y la Conferencia anual, que se celebra en un lugar diferente cada año.",
+        "q8": "¿Qué oportunidades de servicio tengo disponibles como miembro?",
+        "a8": "Facilitar el servicio individual es parte de la misión de la Sociedad Legal. El servicio público se promueve principalmente y se brinda a nivel del capítulo local, y los capítulos brindan muchas oportunidades de servicio al ayudar a otros con sus necesidades legales. Los ejemplos incluyen servicio pro bono y tutoría de estudiantes de derecho y nuevos abogados.",
+        "q9": " ¿La membresía en la Sociedad Legal requerirá apoyo financiero de BYU Law?",
+        "a9": "No. La Sociedad Legal apoya a la creciente generación de abogados, incluidos los estudiantes de derecho de BYU, pero no se espera que financiemente apoye a BYU Law.",
+        "q10": "¿Cómo aprendo más sobre la Sociedad Legal?",
+        "a10": "Además de su sitio web (jrcls.org), que incluye artículos, boletines e información sobre eventos pasados ​​y futuros, la Sociedad Legal se comunica a través de Facebook, YouTube y otras cuentas de redes sociales.",
+        "q11": "¿Con quién me comunico si tengo problemas técnicos con este sitio web?",
+        "a11": "Contacten el servicio de asistencia al (801) 422-3884 o helpdesk@law.byu.edu.",
+        "q12": "¿Con quién me comunico si tengo preguntas adicionales?",
+        "a12": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu"
     },
-    "contact": "",
+    "contact": "BYU Law School External Relations 338 JRCB Provo, UT 84602 (801) 422-4125 externalrelations@law.byu.edu",
     "privacy_policy": {
         "title": "",
-        "last_revised": "",
+        "last_revised": "Última revisión: 20 de Febrero de 2020",
         "who_we_are": {
-            "title": "",
-            "body": ""
+            "title": "Quienes Somos",
+            "body": "La Sociedad Legal J. Reuben Clark (\"nosotros\") opera este sitio web (el \"Sitio web\") en estrecha asociación con la facultad de la escuela de derecho de BYU. Si tiene preguntas, comentarios o inquietudes sobre nuestra Política de privacidad (esta “Política” o “Política de privacidad”), puede enviar un correo electrónico a: externalrelations@law.byu.edu."
         },
         "our_mission": {
-            "title": "",
-            "body": ""
+            "title": "Nuestra Misión",
+            "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley."
         },
         "candor_commitment": {
-            "title": "",
-            "body": ""
+            "title": "Nuestro Compromiso con el Proveedor",
+            "body": "\"Valoramos la transparencia. El objetivo principal de nuestra Política es describir cómo y cuándo podemos recopilar, almacenar, usar, compartir y proteger su información."
         },
         "law_commitment": {
-            "title": "",
-            "body": ""
+            "title": "Nuestro Compromiso a la Ley",
+            "body": "Nos esforzamos por comprender y cumplir con todas las leyes de privacidad aplicables en la forma en que recopilamos, almacenamos, usamos, compartimos y protegemos su información. Si alguna parte de nuestra Política es ilegal, es inadvertida y nula."
         },
         "information_tracking": {
-            "title": "",
-            "information_provided": "",
-            "information_collected": "",
-            "information_collected_2": "",
-            "outside_information": "",
-            "children": "",
-            "do_not_track": "",
+            "title": "Cómo recopilamos información sobre usted",
+            "information_provided": "Información que nos proporciona directamente: a medida que utiliza el sitio web, existen numerosos contextos en los que puede proporcionarnos libremente su información personal. Por ejemplo, puede darnos su nombre, dirección de correo electrónico, dirección postal, número de teléfono, información del trabajo, nombre de usuario y contraseña e información de la tarjeta de pago.",
+            "information_collected": "Información recopilada automáticamente: podemos rastrear y almacenar cualquier información sobre su uso del sitio web, incluidos, entre otros, su ubicación, tipo de navegador, URL de referencia, sistema operativo de la computadora, proveedor de servicios de Internet, dirección de host IP, nombre de dominio, hora y fecha de visita, páginas vistas, enlaces en los que se hizo clic y tiempo dedicado a cada elemento. Podemos usar cookies para rastrear sus preferencias de usuario, nombre de usuario, contraseña u otros detalles para optimizar su experiencia. También podemos usar balizas web para rastrear su uso del sitio web y la interacción con los correos electrónicos que le enviamos. Por ejemplo, las balizas web pueden informarnos si recibió o abrió un correo electrónico. Es posible que pueda deshabilitar algunas balizas web mostrando correos electrónicos solo como texto y ajustando la configuración del navegador.",
+            "information_collected_2": "También podemos usar herramientas de análisis de terceros, como Google Analytics, seguimiento de conversiones de Google y Facebook Pixel. En estos casos, nuestros proveedores de servicios externos pueden usar cookies para nuestros fines analíticos.",
+            "outside_information": "Información externa: podemos recibir información sobre usted de terceros o bases de datos públicas.",
+            "children": "Niños: si tiene menos de 13 años, no recopilaremos intencionalmente ninguna información sobre usted y no podrá utilizar el sitio web. Si cree que podríamos tener información personal de o sobre un niño menor de 13 años, contáctenos a: externalrelations@law.byu.edu.",
+            "do_not_track": "No rastrear señales: la mayoría de los navegadores web y algunos sistemas operativos móviles y aplicaciones móviles incluyen una función de No rastrear o la configuración que puede activar para indicar su preferencia de privacidad para no tener datos sobre sus actividades de navegación en línea monitoreados y recopilados. En este momento, el sitio web no responde a las preferencias que haya establecido en su navegador web con respecto a dicha recopilación de su información, y el sitio web puede continuar recopilando información de la manera descrita en esta Política de privacidad.",
             "legal_basis": {
-                "title": "",
-                "consent": "",
-                "legitimate_interests": "",
-                "performance_contract": "",
-                "legal_obligations": "",
-                "vital_interests": ""
+                "title": "Bases legales para la recopilación y el procesamiento: recopilamos y procesamos información personal en las siguientes bases legales.",
+                "consent": "Consentimiento. Podemos procesar sus datos si nos ha dado su consentimiento específico para usar su información personal en un propósito específico.",
+                "legitimate_interests": "Intereses legítimos. Podemos procesar sus datos cuando sea razonablemente necesario para lograr nuestros intereses comerciales legítimos.",
+                "performance_contract": "Ejecución de un contrato. Donde hayamos celebrado un contrato con usted, podemos procesar su información personal para cumplir con los términos de nuestro contrato.",
+                "legal_obligations": "Obligaciones legales. Podemos divulgar su información donde estamos legalmente obligados a hacerlo para cumplir con la ley aplicable, las solicitudes gubernamentales, un procedimiento judicial, una orden judicial o un proceso legal, como en respuesta a una orden judicial o una citación (incluso en respuesta a las autoridades públicas para cumplir con los requisitos de seguridad nacional o de aplicación de la ley).",
+                "vital_interests": "Intereses vitales. Podemos divulgar su información cuando creamos que es necesario investigar, prevenir o tomar medidas con respecto a posibles violaciones de nuestras políticas, sospecha de fraude, situaciones que impliquen amenazas potenciales a la seguridad de cualquier persona y actividades ilegales, o como evidencia en un litigio en el que estamos involucrados."
             },
             "how_we_store": {
-                "title": "",
-                "united_states": "",
-                "security_measures": "",
-                "data_rentention": "",
-                "handling_breaches": ""
+                "title": "Cómo Almacenamos Su Información",
+                "united_states": "Almacenamiento en Estados Unidos: incluso si accede al sitio web desde un país extranjero, almacenamos su información en los Estados Unidos de acuerdo con sus leyes. Sujeto a sus derechos establecidos a continuación, al usar el sitio web, usted acepta la transferencia de su información y el almacenamiento de su información en los Estados Unidos.",
+                "security_measures": "Medidas de seguridad pero sin garantía: implementamos una variedad de medidas de seguridad razonables para mantener la seguridad de su información personal. Su información personal se almacena en redes seguras a las que solo pueden acceder personas con derechos especiales de acceso. Además, toda la información confidencial, como la información de la tarjeta de crédito, generalmente se cifrará a través de la tecnología Secure Socket Layer / Transport Layer Security. Dicho esto, la seguridad nunca puede garantizarse. No garantizamos la seguridad de la información que recopilamos.",
+                "data_rentention": "Retención de datos: solo conservaremos su información personal durante el tiempo que sea necesario para los fines establecidos en esta política de privacidad, a menos que la ley exija o permita un período de retención más largo (como impuestos, contabilidad u otros requisitos legales).",
+                "handling_breaches": "Manejo de violaciones: si nos enteramos de una violación de seguridad con respecto a su información de identificación personal, nuestra primera prioridad será determinar el alcance del daño, notificar y trabajar con las fuerzas del orden, y tomar medidas correctivas, según corresponda. También le notificaremos por correo electrónico tan pronto como sea razonablemente posible."
             },
             "how_we_use_information": {
-                "title": "",
-                "payment": "",
-                "experience": "",
-                "marketing": "",
-                "phone_numbers": "",
-                "email_addresses": "",
-                "protection": ""
+                "title": "Cómo Usamos Su Información",
+                "payment": "Procesamiento de pagos: podemos recopilar y almacenar información creada por sus compras, incluida la información del método de pago, el nombre del comerciante y la fecha, hora y monto de la transacción. Para agilizar las compras futuras, podemos almacenar su número de tarjeta de crédito o débito, la fecha de vencimiento de la tarjeta y las direcciones de facturación y envío.",
+                "experience": "Mejora de la experiencia: podemos utilizar la información personal que recopilamos para brindarle servicios y mejorar su experiencia de usuario. Por ejemplo, podemos usar su ubicación para proporcionar tendencias locales, historias o anuncios. Podemos usar la información que recopilamos para hacer inferencias sobre usted, como qué temas le pueden interesar, qué equipos pueden gustarle, etc., para personalizar el contenido, incluidos los anuncios.",
+                "marketing": "Fines de marketing: utilizamos la información que recopilamos para informarle sobre las oportunidades que creemos que pueden interesarle. Puede darse de baja de cualquier notificación siguiendo las instrucciones contenidas en la notificación o enviándonos un correo electrónico a externalrelations@law.byu.edu con su solicitud.",
+                "phone_numbers": "Números de teléfono. De manera predeterminada, si nos proporciona su número de teléfono, acepta recibir mensajes de texto de marketing para ese número y pagar las tarifas asociadas por recibir dichos mensajes.",
+                "email_addresses": "Correos electrónicos. De manera predeterminada, si nos proporciona su dirección de correo electrónico, acepta recibir correos electrónicos de nuestra parte, incluidos correos electrónicos de marketing.",
+                "protection": "Protección: podemos acceder, procesar y retener durante un período prolongado cualquier información recopilada sobre usted cuando sea objeto de una solicitud u obligación legal, investigación gubernamental o investigaciones sobre posibles violaciones de nuestros términos o políticas, o de otra manera Prevenir el daño. Podemos retener información de cuentas deshabilitadas por violaciones de nuestros términos durante al menos un año para evitar abusos u otras violaciones."
             },
             "how_we_share_information": {
-                "title": "",
-                "third_parties": "",
-                "byu_law": "",
-                "service_providers": "",
-                "at_your_direction": "",
-                "to_other_members": "",
-                "business_transfers": "",
-                "out_of_necessity": ""
+                "title": "Cómo Compartimos Su Información",
+                "third_parties": "Información para terceros específicos: podemos divulgar información agregada o desidentificada sobre los usuarios y miembros de nuestro sitio web sin restricciones. Podemos compartir su información personal en las siguientes situaciones:",
+                "byu_law": "\"BYU Law y La Iglesia de Jesucristo de los Santos de los Últimos Días. Dada la estrecha relación entre BYU Law, La Iglesia de Jesucristo de los Santos de los Últimos Días y la Sociedad Legal, cualquier información que proporcione a la Sociedad Legal a través de este sitio web también estará accesible para BYU Law y La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+                "service_providers": "Proveedores de servicio. Contratamos a proveedores de servicios, como compañías de procesamiento de tarjetas de crédito y socios de alojamiento de sitios web, para que realicen funciones para nosotros. Podemos compartir su información personal con ellos, sujeto a obligaciones consistentes con nuestra Política de privacidad y cualquier otra medida de confidencialidad y seguridad apropiada, y con la condición de que usen su información solo en nuestro nombre y de acuerdo con nuestras instrucciones.",
+                "at_your_direction": "A tu dirección. Podemos compartir su información en su dirección, como cuando autoriza a un cliente web o aplicación de terceros a acceder a su cuenta.",
+                "to_other_members": "A otros miembros. Cuando comparte información personal en el sitio web o interactúa con áreas públicas del sitio web, dicha información personal puede ser vista por todos los usuarios y puede distribuirse públicamente fuera del sitio web.",
+                "business_transfers": "Transferencias comerciales. Si estamos involucrados en una quiebra, fusión, adquisición, reorganización o venta de activos, toda su información puede venderse o transferirse como parte de esa transacción. Esta Política se aplicará a su información transferida.",
+                "out_of_necessity": "Por necesidad. Podemos compartir información si creemos que es razonablemente necesario cumplir con una ley, regulación, proceso legal o solicitud del gobierno; para proteger la seguridad de cualquier persona; para abordar el fraude, la seguridad o los problemas técnicos; o para proteger nuestros derechos o propiedad. Sin embargo, nada en esta política de privacidad está destinado a limitar las defensas u objeciones legales que pueda tener a la solicitud de liberación de un tercero."
             },
             "your_rights": {
-                "title": "",
-                "right_to_access": "",
-                "right_to_ammend": "",
-                "right_to_be_forgotten": "",
-                "right_to_revoke": "",
-                "right_to_unsubscribe": "",
-                "contact": "",
-                "opt_out": ""
+                "title": "Sus Derechos",
+                "right_to_access": "Derecho a acceder a su información personal. Tiene derecho a acceder a la información personal que tenemos sobre usted. A petición suya, le proporcionaremos una copia de la información personal que tenemos sobre usted.",
+                "right_to_ammend": "Derecho a enmendar / corregir. Si descubre que la información personal que tenemos sobre usted es incorrecta o no está actualizada, puede solicitarnos que corrijamos esa información personal.",
+                "right_to_be_forgotten": "Derecho a ser olvidado. Puede solicitarnos que eliminemos la información personal que tenemos sobre usted en determinadas circunstancias. Es posible que no podamos eliminar toda la información que tenemos sobre usted cuando tenemos una relación continua, sin embargo, contáctenos y haremos todo lo posible para ayudarlo con su solicitud.",
+                "right_to_revoke": "Derecho a revocar el consentimiento. Cuando procesamos sus datos sobre la base de que ha dado su consentimiento para dicho procesamiento, tiene derecho a retirar su consentimiento en cualquier momento poniéndose en contacto con nosotros.",
+                "right_to_unsubscribe": "Derecho a darse de baja. Si recibió un correo electrónico promocional de nuestra parte, también puede optar por no recibir nuestros correos electrónicos promocionales futuros siguiendo las instrucciones para cancelar la suscripción que se incluyen en dicho correo electrónico.",
+                "contact": "Si desea ejercer alguno de estos derechos, contáctenos a través de la información de contacto a continuación.",
+                "opt_out": "Además, puede optar por excluirse de la agregación y el análisis de los datos recopilados sobre usted en el sitio web por Google Analytics. Puede evitar la recopilación de datos generados por las cookies y relacionados con el uso de este sitio web descargando e instalando el \"complemento\" que se encuentra en el siguiente enlace: http://tools.google.com/dlpage/gaoptout."
             }
         },
         "external_links": {
-            "title": "",
-            "body": ""
+            "title": "Enlaces Externos",
+            "body": "El sitio web puede contener enlaces a otros sitios para su conveniencia. No tenemos responsabilidad por el contenido o las prácticas de privacidad de ningún sitio de terceros, y le recomendamos que revise sus políticas de privacidad si tiene alguna pregunta sobre cómo procesan la información personal."
         },
         "policy_updates": {
-            "title": "",
-            "body": ""
+            "title": "Actualizaciones de políticas",
+            "body": "Podemos actualizar esta política de privacidad de vez en cuando para reflejar, por ejemplo, cambios en nuestras prácticas o por otros motivos operativos, legales o reglamentarios. Si realizamos un cambio importante en nuestra política de privacidad, le notificaremos (por correo electrónico o publicando en el sitio web) que nuestras prácticas de privacidad han cambiado y le proporcionaremos un enlace a la nueva política. En el caso de que realicemos un cambio importante en la forma en que procesamos su información personal, le brindaremos la oportunidad de optar por no usar dicho uso nuevo o diferente. La fecha de la última revisión de esta política de privacidad se encuentra en la parte superior de esta página. Le recomendamos que revise esta política de privacidad periódicamente para verificar si hay actualizaciones o cambios."
         },
         "contact_us": {
-            "title": "",
-            "concerns": "",
-            "questions": "",
-            "address": "",
-            "complaint": "",
-            "effective_date": ""
+            "title": "Contáctanos ",
+            "concerns": "Si tiene inquietudes o reclamos con respecto a cómo manejamos su información, infórmenos. Investigaremos e intentaremos resolver rápidamente cualquier queja.",
+            "questions": "Para obtener más información sobre nuestras prácticas de privacidad, si tiene preguntas o si desea presentar una queja, comuníquese con nosotros por correo electrónico a externalrelations@law.byu.edu o por correo utilizando los detalles que se proporcionan a continuación:",
+            "address": "Correo",
+            "complaint": "También tiene derecho a presentar una queja directamente ante su autoridad de supervisión local o autoridad de protección de datos.",
+            "effective_date": "Efectivo: 20 de Febrero de 2020"
         }
     },
     "terms_of_use": {
-        "last_updated": "Last Updated: February 20, 2019",
+        "last_updated": "Última actualización: 20 de Febrero de 2019",
         "who_we_are": {
-            "title": "",
-            "body": ""
+            "title": "Quienes Somos",
+            "body": "La Sociedad Legal J. Reuben Clark (\"nosotros\") opera este sitio web (el \"Sitio web\") en estrecha asociación con la facultad de la escuela de derecho de BYU. Si tiene preguntas, comentarios o inquietudes sobre nuestros términos de uso (estos \"términos\"), puede enviar un correo electrónico a: externalrelations@law.byu.edu."
         },
         "our_mission": {
-            "title": "",
-            "body": ""
+            "title": "Nuestra Misión",
+            "body": "Afirmamos que la fortaleza de las leyes son por la convicción religiosa de los abogados.  Nos esforzamos a través del servicio público y la excelencia profesional a promover equidad y virtud en la aplicación de la ley."
         },
         "binding_agreement": {
-            "title": "",
-            "body": ""
+            "title": "El Uso Crea Un Acuerdo Vinculante",
+            "body": "Al acceder o utilizar el sitio web, usted (a) reconoce que ha leído, comprende y acepta estos Términos, y (b) afirma que tiene al menos 18 años de edad (o ha alcanzado la mayoría de edad en la jurisdicción donde vives)."
         },
         "accounts": {
-            "title": "",
-            "registration": "",
-            "security": "",
-            "investigation": "",
-            "suspension": ""
+            "title": "Cuentas",
+            "registration": "Registro: no puede utilizar la cuenta, el nombre de usuario o la contraseña de otra persona en ningún momento. Cuando crea una cuenta o actualiza su perfil en el sitio web, debe proporcionar información precisa.",
+            "security": "Seguridad: si crea un nombre de usuario y una contraseña, no puede compartirlos con nadie y usted es responsable de mantener su confidencialidad. Usted será responsable de cualquier pérdida que resulte de que alguien use su cuenta con su permiso o debido a su falla al cerrar sesión en su cuenta o proteger su nombre de usuario y contraseña. Debe notificarnos de inmediato si sospecha un uso no autorizado de la cuenta.",
+            "investigation": "Investigación: para garantizar que proporcionamos una experiencia de alta calidad para usted y para otros usuarios, usted acepta que podemos acceder a su cuenta y a sus registros caso por caso para investigar las quejas o denuncias de abuso o infracción de terceros. derechos del partido No tenemos la intención de revelar la existencia o ocurrencia de tal investigación a menos que lo exija la ley.",
+            "suspension": "Suspensión; Terminación: tenemos el derecho de denegar el acceso y suspender o finalizar su acceso al sitio web o a cualquier función o parte del mismo, en cualquier momento y por cualquier motivo, incluso si viola estos Términos. En el caso de que suspendamos o cancelemos su acceso al sitio web, continuará sujeto a los Términos vigentes a partir de la fecha de su suspensión o finalización."
         },
         "directory_use": {
-            "title": "",
-            "body": ""
+            "title": "Uso del Directorio",
+            "body": "El directorio disponible en el sitio web es para facilitar las conexiones entre los miembros de JRCLS, utilizando información que es en gran parte autoinformada. JRCLS no hace referencias de abogados, y no asume ningún deber de verificar o confirmar la exactitud de la información que figura en este directorio. La inclusión de un abogado en este directorio no constituye un respaldo de ese abogado ni representa la capacidad o competencia para manejar cualquier asunto legal específico."
         },
         "licenses": {
-            "title": "",
-            "website": "",
-            "content": "",
-            "ideas": ""
+            "title": "Licencias",
+            "website": "Licencia para usar el sitio web. Sujeto a estos Términos, le otorgamos una licencia limitada, no exclusiva, no transferible, no sublicenciable y revocable para acceder y usar el sitio web para su uso personal y no comercial, incluidos gráficos, textos, instrucciones, imágenes, archivos de audio y / u otros sonidos, videos y otros materiales que puede ver, acceder a través de, o están relacionados con el sitio web (el \"Contenido\").",
+            "content": "Licencia para su contenido de usuario. El sitio web puede ofrecer a los usuarios la oportunidad de cargar su propio contenido en el sitio web (\"Contenido del usuario\"). Por la presente, le otorga a JRCLS un derecho y licencia irrevocable, perpetuo, no exclusivo, transferible, sublicenciable, libre de regalías y mundial para usar, reproducir, mostrar, realizar, distribuir y preparar trabajos derivados de cualquier Contenido de usuario que publique en oa través de el sitio web para cualquier propósito y en todas las formas y todos los medios, ya sea que se conozcan ahora o que se conozcan en el futuro, y usted renuncia a todas y cada una de las reclamaciones que pueda tener ahora o en el futuro en cualquier jurisdicción a los llamados \"derechos de alquiler , Derechos morales\", y todos los derechos de \"droit moral\" en ese Contenido de usuario, incluso si el Contenido de usuario se modifica o cambia de una manera que no es aceptable para usted. Si publica el Contenido del usuario, nos declara y garantiza que posee o controla todos los derechos sobre dicho Contenido del usuario y tiene derecho a otorgarnos los derechos mencionados anteriormente. Usted acepta que es responsable de todo el Contenido del usuario que cargue en el Sitio web.",
+            "ideas": "Ideas enviadas. Si bien apreciamos su interés en el sitio web y la sociedad de abogados, no queremos ni podemos aceptar ninguna idea o información que los usuarios consideren confidencial y / o patentada. Esto es para evitar la posibilidad de futuros malentendidos cuando los proyectos desarrollados independientemente por nosotros o en nuestro nombre puedan parecer similares a las ideas creativas, sugerencias y / o materiales de los propios usuarios. Excepto con respecto a su información personal según lo dispuesto expresamente en nuestra Política de privacidad, todos los comentarios, sugerencias, ideas, dibujos, conceptos u otra información o materiales divulgados u ofrecidos por usted a través del sitio web o en respuesta a solicitudes en el sitio web se considerará no confidencial y no propietaria."
         },
         "prohibited_uses": {
-            "title": "",
-            "spamming": "",
-            "harassing": "",
-            "hacking": "",
-            "altering": "",
-            "interfering": "",
-            "our_rights": "",
+            "title": "Usos Prohibidos",
+            "spamming": "No Spam: A menos que de conformidad con un propósito legítimo de la Sociedad Legal, no puede utilizar la información del directorio para enviar correos electrónicos masivos o masivos o mensajes de texto, incluidos los anuncios.",
+            "harassing": "Hostigamiento: No puede usar el sitio web ni publicar contenido del usuario en el sitio web de manera ilegal, abusiva, maliciosa, acosadora, tortuosa, difamatoria, vulgar, obscena o calumniosa.",
+            "hacking": "Piratería: No puede acceder ni intentar acceder a ningún servicio, Contenido, cuentas de usuario, sistemas informáticos o redes sin permiso, mediante piratería, extracción de contraseñas. o cualquier otro medio. No puede sondear, escanear ni probar la vulnerabilidad del sitio web, ni de ningún sistema o red asociados. No puede infectar o intentar infectar el sitio web con ningún virus.",
+            "altering": "Alteraciones: No puede realizar ingeniería inversa, descompilar, desensamblar o reducir o intentar reducir de forma perceptible a los humanos el código fuente utilizado en el sitio web. No puede alterar ni intentar alterar ninguna parte del sitio web más allá de las personalizaciones que habilitamos.",
+            "interfering": "Interferencias: No puede utilizar nuestros servicios o sitio de ninguna manera que pueda dañar, deshabilitar, sobrecargar o perjudicar nuestros servidores o redes. No puede interferir con el uso o disfrute del Sitio web por parte de otros. Aunque no incluye todo, no puede sobrecargar, "inundar", "bombardear" o "bloquear" el sitio web.",
+            "our_rights": "No Infringir Nuestros Derechos: El contenido está protegido por derechos de autor, marca registrada y otros derechos de propiedad. No puede copiar ni compartir ningún Contenido sin el consentimiento del propietario o licenciante correspondiente. Nosotros (y nuestros licenciantes) poseemos y conservamos los derechos de propiedad del Contenido. No adquiere derechos de propiedad sobre ningún Contenido al usar el Sitio web. No puede modificar ni eliminar ningún aviso de derechos de autor, marca registrada u otros derechos de propiedad que aparezcan en el sitio web.",
             "others_rights": ""
         },
         "rights_infringed": {
